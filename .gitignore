@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Zdrojové / velké fotky — nemají být na živém webu
+fotka na web 2.jpg
+fotka n web 3.jpg
+podpis.png
+base.png
+
+# Záloha a stará verze
+index-old.html
+about_ZALOHA.jpg
+
+# Interní dokumentace (nemusí být veřejně dostupná)
+NÁVOD-nasazení.md
+google-apps-script.gs
+reviews/README.txt
+
+# Sdílecí / pracovní soubory
+*.zip
+Ladislav-Bradna-nahled.html
