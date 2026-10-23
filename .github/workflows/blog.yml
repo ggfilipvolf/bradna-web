@@ -1,0 +1,53 @@
+name: Vydání článků na blog
+
+# Každý den ráno zkontroluje, jestli nemá vyjít nový článek (vycházejí v úterý v 10:00),
+# a při každé změně článků nebo šablon web znovu vygeneruje.
+on:
+  schedule:
+    - cron: "5 8,9 * * *"   # 10:05 v létě i v zimě (UTC+2 / UTC+1)
+  push:
+    branches: [main]
+    paths:
+      - "_clanky/**"
+      - "_build/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: blog-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install markdown==3.11
+      - name: Vygenerovat web
+        run: python3 _build/build.py
+      - name: Uložit změny
+        id: commit
+        run: |
+          git config user.name "bradna-web bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Nic nového k vydání."
+          else
+            git commit -m "Blog: automatické vydání $(TZ=Europe/Prague date '+%d.%m.%Y %H:%M')"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Spustit sestavení GitHub Pages
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
