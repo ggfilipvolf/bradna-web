@@ -11,7 +11,7 @@ Lidé, kterým banka zamítla hypotéku, za mnou chodí často. A skoro vždycky
 
 ## Jedno „ne“ neznamená konec
 
-Každá banka má svá vlastní pravidla. Jedna počítá váš příjem přísněji, jiná mírněji. Jedna vadí stará půjčka, druhá ji tolik neřeší. Jedna nepřijme určitý typ příjmu, druhá ano.
+Každá banka má svá vlastní pravidla. Jedna počítá váš příjem přísněji, jiná mírněji. Jedné vadí stará půjčka, druhá ji tolik neřeší. Jedna nepřijme určitý typ příjmu, druhá ano.
 
 Takže když vám jedna banka řekne ne, neznamená to, že vám řeknou ne všechny. Znamená to, že jste u té konkrétní banky nesplnili jejich podmínky.
 
@@ -31,23 +31,31 @@ Co s tím: zjistěte si, co o vás v těch databázích je. Výpis si můžete v
 
 Telefon na splátky, nákup s odloženou platbou, malá půjčka na dovolenou. Každá taková splátka vám ubírá z hypotéky. Pravidlo z praxe: každých 1 000 Kč jiných splátek ubere zhruba 180 000 Kč z hypotéky.
 
-Některé banky navíc nevidí rády hodně malých půjček najednou. Působí to, jako byste nevycházeli s penězi.
+Banka navíc vidí, jak často si půjčujete. Měl jsem klientku, která si během pár měsíců vzala tři úvěry. Všechny poctivě splácela. Přesto jí další banka nabídla úrok přes 8 %. Časté půjčování působí, jako byste nevycházeli s penězi. Před hypotékou si proto dejte pár měsíců pauzu od jakýchkoliv nových půjček.
+
+Malé půjčky mají ještě jeden háček. Obvykle se splácí jen pár let, takže mají vysoké splátky. Další klientka měla čistý příjem kolem 37 000 Kč a několik malých půjček s krátkou dobou splácení. Splátky jí braly tolik, že na hypotéku nedosáhla. Spojili jsme půjčky do jedné na delší dobu. Měsíční splátka klesla zhruba na polovinu. A byt za 2 miliony mimo Prahu najednou vyšel. Řekla mi: „To mě ani nenapadlo, že je to možné.“
+
+Pořadí je důležité. Nejdřív narovnat půjčky, pak teprve žádat o hypotéku.
 
 ### Dluh na daních nebo pojištění
 
 Nedoplatek na finančním úřadě, sociálním nebo zdravotním pojištění je pro banku stopka. Týká se to hlavně podnikatelů, ale i zaměstnanců, kteří mají například vedlejší příjem.
 
-Co s tím: zaplatit a mít potvrzení, že nic nedlužíte.
+Některé banky koukají i na drobné dluhy u úřadů. Zapomenutá daň z nemovitosti za pár set korun se může změnit v exekuci. A exekuce hypotéku shodí, i když jde o maličkost.
+
+Co s tím: předem si projít, jestli nikde nic nedlužíte. Zaplatit a mít potvrzení.
 
 ### Neschopenka v době žádosti
 
-Když jste zrovna na nemocenské, máte nižší příjem. A banka obvykle neví, kdy a jestli se vrátíte do práce. Většina bank proto v tu chvíli hypotéku neschválí.
+Dokud trvá neschopenka, hypotéku většinou nedostanete. Banka to pozná. Potvrzení o příjmu od zaměstnavatele ukazuje příjem za poslední rok i za poslední tři měsíce. A na výpisech jsou místo výplaty vidět dávky.
 
-Co s tím: počkat, až budete zase normálně pracovat a dostávat plnou výplatu.
+Co s tím: nepodepisujte zatím rezervaci bytu. Připravte si všechno ostatní. Po návratu do práce banka obvykle chce vidět pár běžných výplat, a pak se dá žádat.
 
 ### Co banka vidí na výpisech
 
-Banka si od vás obvykle vyžádá výpisy z účtu za několik posledních měsíců. Vidí na nich všechno. Splátky, o kterých jste jí neřekli. Pravidelné sázení. Účet často v minusu.
+Banka si od vás obvykle vyžádá výpisy z účtu za poslední tři měsíce, některé za šest. Chce na nich vidět normální život. Nájem, telefon, nákupy. Vidí ale i všechno ostatní. Splátky, o kterých jste jí neřekli. Pravidelné sázení. Účet často v mínusu.
+
+Pár dalších věcí, které na výpisech lidi překvapí. Hotovost, kterou si sami vložíte na účet, pro banku příjem není. A když vám výplata přijde a hned odejde jinam, banka bude chtít vidět i ten druhý účet.
 
 Nikdy nic netajte. Banka to stejně najde. A když zjistí, že jste něco zamlčeli, je to horší než samotný problém.
 
@@ -55,7 +63,9 @@ Nikdy nic netajte. Banka to stejně najde. A když zjistí, že jste něco zaml�
 
 Někdy nejde o vás, ale o nemovitost. Banka nepůjčuje z ceny, půjčuje z odhadu. Když odhadce, se kterým banka spolupracuje, ocení byt níž, než je kupní cena, banka vám půjčí méně. A vám pak chybí peníze na doplacení.
 
-Co s tím: doplnit vlastní peníze, vyjednat nižší cenu, nebo zkusit jinou banku s jiným odhadcem.
+Podobně je to s levnými byty. Byty za 1,5 až 2 miliony banky do zástavy často nechtějí. Některé mají dokonce seznam ulic, kam nepůjčují. Zástava znamená, že byt slouží bance jako záruka.
+
+Co s tím: doplnit vlastní peníze, vyjednat nižší cenu, nebo zkusit jinou banku. U levnějších bytů je nejlepší nechat banku byt prověřit ještě před rezervací. Stačí výpis z katastru a fotky. Odpověď pak obvykle platí zhruba tři měsíce.
 
 ## Pojďme to spočítat
 
@@ -91,7 +101,3 @@ Napište mi, co vám banka řekla. Podíváme se na to spolu a zjistíme, jestli
 ### Můžu požádat o hypotéku v jiné bance hned po zamítnutí?
 
 Můžete. Ale vyplatí se nejdřív zjistit, proč vás první banka odmítla. Jinak můžete narazit na stejný problém.
-
-### Jak dlouho musím čekat, když mám špatnou historii splácení?
-
-Záleží na tom, co a jak dávno se stalo. Malý a dávno vyřešený problém často nevadí. Čerstvé problémy se splácením banky vidí přísněji.

@@ -3,7 +3,7 @@ title: Kreditka a kontokorent a hypotéka: proč vám ubírají z úvěru
 slug: kreditka-a-kontokorent-a-hypoteka
 date: 2026-11-10
 description: Kreditní karta nebo kontokorent vám může ubrat statisíce z hypotéky, i když je vůbec nepoužíváte. Spočítejte si kolik a co s tím.
-perex: „Ale já tu kartu vůbec nepoužívám.“ Tuhle větu slyším skoro na každé třetí schůzce. Pro banku to ale nehraje roli. Počítá s tím, co byste mohli utratit.
+perex: „Ale já tu kartu vůbec nepoužívám.“ Tuhle větu slyším na schůzkách pořád dokola. Pro banku to ale nehraje roli. Počítá s tím, co byste mohli utratit.
 kategorie: Jak to v bance chodí
 ---
 
@@ -21,32 +21,34 @@ Obojí je půjčka. Jen ji zrovna nemusíte používat.
 
 Banka, která vám dává hypotéku, se ptá jednoduše. Co kdybyste zítra ten limit vyčerpali? Pak byste museli splácet kartu i hypotéku zároveň.
 
-Proto většina bank počítá s celým limitem, ne s tím, kolik jste opravdu utratili. A z toho limitu si „vymyslí“ měsíční splátku. Některé banky počítají několik procent z limitu, podle dostupných informací až 5 %. Každá banka to má trochu jinak.
+Proto banka bere kartu, jako byste ji měli celou vyčerpanou. Nezajímá ji, kolik jste opravdu utratili. Z limitu si pak „vymyslí“ měsíční splátku. V praxi to bývá 3 až 5 % z limitu měsíčně. Každá banka to má trochu jinak.
+
+Nejjednodušší příklad, který na schůzkách ukazuji: karta s limitem 40 000 Kč. Banka si z ní spočítá splátku až 2 000 Kč měsíčně. A každých 1 000 Kč splátek ubere zhruba 180 000 Kč z hypotéky. Karta, kterou máte v šuplíku a nepoužíváte, vás tak může stát až kolem 350 000 Kč hypotéky.
 
 Tahle splátka se pak odečte od vašeho příjmu stejně jako splátka za auto. A tím vám zmenší hypotéku.
 
 ## Pojďme to spočítat
 
-Vezměme si modelový příklad. Žena chce koupit první vlastní byt sama. Na ruku bere kolem 42 000 Kč. Žádné jiné půjčky nemá. Má ale kreditní kartu s limitem 50 000 Kč a kontokorent s limitem 60 000 Kč. Dohromady 110 000 Kč, které nikdy nepoužila.
+Teď větší příklad. Muž chce koupit první vlastní byt sám. Na ruku bere kolem 45 000 Kč. Žádné jiné půjčky nemá. Má ale kreditní kartu s limitem 50 000 Kč a kontokorent s limitem 60 000 Kč. Dohromady 110 000 Kč, které nikdy nepoužil.
 
 Počítám s modelovou sazbou 5,5 % a splatností 30 let. A s tím, že splátky mají být do zhruba 40 % čistého příjmu.
 
 **Bez karet:**
-- 40 % z 42 000 Kč je 16 800 Kč.
-- Taková splátka odpovídá hypotéce zhruba 2,96 milionu korun.
+- 40 % ze 45 000 Kč je 18 000 Kč.
+- Taková splátka odpovídá hypotéce zhruba 3,17 milionu korun.
 
 **S kartami, když banka počítá 5 % z limitu:**
 - 5 % ze 110 000 Kč je 5 500 Kč měsíčně.
-- Na hypotéku zbývá 11 300 Kč.
-- To odpovídá hypotéce zhruba 1,99 milionu korun.
+- Na hypotéku zbývá 12 500 Kč.
+- To odpovídá hypotéce zhruba 2,2 milionu korun.
 
-Rozdíl je skoro milion korun. Za dvě karty, které nikdy nepoužila.
+Rozdíl je skoro milion korun. Za dvě karty, které nikdy nepoužil.
 
 I kdyby banka počítala jen 3 % z limitu, splátka by byla 3 300 Kč. A z hypotéky by to ubralo zhruba 580 000 Kč.
 
 Pro srovnání pravidlo z praxe: každých 1 000 Kč jiných splátek ubere z hypotéky zhruba 180 000 Kč.
 
-Když obě věci zruší, banka s ní bude počítat s plným příjmem.
+Když obě věci zruší, banka s ním bude počítat s plným příjmem.
 
 ## Kreditka v šuplíku se počítá taky
 
@@ -59,6 +61,16 @@ Lidé často zapomínají na karty, které dostali kdysi:
 
 Banka to všechno uvidí. Existují databáze, kam banky zapisují, jaké máte úvěry a limity. A uvidí to i na výpisech z účtu.
 
+## Další věci, které ubírají, i když to nečekáte
+
+**Společná půjčka splácená napůl.** Vzali jste si s partnerem nebo kamarádem půjčku a každý platí polovinu? V záznamech ji má každý z vás celou. Když pak jdete žádat o hypotéku sami, banka vám odečte celou splátku, ne polovinu.
+
+**„Půjčka na bydlení“ v internetovém bankovnictví.** Vypadá jako hypotéka, ale není. Je to obyčejná půjčka, obvykle na 10 až 12 let. Na 1,5 milionu na 10 let je splátka kolem 17 000 Kč. Stejná částka z úvěru ze stavebního spoření na 20 let by byla kolem 11 000 Kč. Hypotékou na 30 let zhruba 8 500 Kč. Když si takovou půjčku vezmete, vysoká splátka vám pak zabere místo, které jste mohli mít na hypotéku.
+
+**Dvě žádosti najednou.** Někdo si myslí, že zkusí dvě banky zároveň a vybere lepší. Jenže druhá banka vidí, že jste žádali u první. A počítá s ní, jako byste ji už spláceli. Vaše hypotéka se tím zmenší a nemusí vyjít ani jedna. Nejdřív tedy dotáhněte jednu žádost.
+
+A pozor, podepsaná hypotéka, ze které jste ještě nic nečerpali, se počítá taky. Typicky u stavby domu.
+
 ## Jak to udělat správně
 
 **1. Sepište si všechny karty a limity.** Projděte šuplík, internetové bankovnictví a výpisy. Zjistěte, jakou máte kde výši limitu.
@@ -67,7 +79,7 @@ Banka to všechno uvidí. Existují databáze, kam banky zapisují, jaké máte 
 
 **3. Nechte si potvrdit, že je zrušeno.** Banka vám vystaví potvrzení. To se hodí, kdyby se zrušení v databázích ještě neprojevilo.
 
-**4. Řešte to s předstihem.** Zrušení se do databází nepropíše hned. Nikam to neuteče, ale počítejte s tím, že to trvá. Ideálně začněte pár měsíců před žádostí o hypotéku.
+**4. Řešte to s předstihem.** Zrušení karty trvá zhruba měsíc. Nikam to neuteče, ale nenechávejte to na poslední chvíli. Ideálně to vyřešte pár měsíců před žádostí o hypotéku.
 
 **5. Když kartu opravdu potřebujete, snižte limit.** Pokud ji používáte třeba na cesty, stačí jí nižší limit. Menší limit znamená menší ubrání z hypotéky.
 

@@ -68,8 +68,6 @@ Splátka 3,6 milionu by při 5,5 % na 30 let vyšla zhruba na 20 440 Kč. To je 
 
 Každá splátka, kterou už máte, se odečte. Pravidlo z praxe: každých 1 000 Kč jiných splátek ubere zhruba 180 000 Kč z hypotéky.
 
-Pozor na společné půjčky. Když jste si s partnerem vzali půjčku napůl, každý z vás ji má v záznamech celou. Jdete-li pak pro hypotéku sami, banka vám odečte celou splátku, ne polovinu.
-
 Kdyby náš pár splácel auto 4 500 Kč měsíčně, podle splátky by dosáhl už jen na zhruba 3,6 milionu místo 4,4. Auto by mu ubralo skoro 800 tisíc.
 
 To samé platí pro nákupy na splátky, kreditní karty nebo kontokorent. Kreditku v šuplíku banka bere, jako byste ji měli celou vyčerpanou, a počítá z jejího limitu měsíční splátku. Karta s limitem 40 000 Kč vám tak může ubrat až zhruba 350 000 Kč hypotéky. Podrobně o tom píšu v samostatném článku.

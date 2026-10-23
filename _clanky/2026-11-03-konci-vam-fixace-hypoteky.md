@@ -45,17 +45,27 @@ Počítám s modelovými sazbami. Vaše skutečná nabídka bude jiná podle ban
 
 **5. Porovnávejte celkové náklady, ne jen sazbu.** Nízká sazba může být podmíněná pojištěním nebo dalšími produkty. Sledujte, kolik vás hypotéka bude stát celkem.
 
+**6. Nenechte se tlačit.** Na schůzkách často slyším: „Banka mi volala, že sazby porostou, ať podepíšu do pátku.“ Klid. Zvýšení o 0,2 až 0,3 procentního bodu dělá u hypotéky 3 miliony na 30 let zhruba 400 až 570 Kč měsíčně. Není to zanedbatelné, ale není to důvod podepsat něco, co jste si nepřečetli a neporovnali.
+
 ## Zůstat, nebo přejít jinam?
 
 Na konci fixace můžete přejít k jiné bance bez sankce. Nová banka vaši hypotéku doplatí a vy pak splácíte u ní. Počítejte ale s tím, že se znovu zapisuje zástava na katastru. Zástava znamená, že nemovitost slouží bance jako záruka. Poplatek za zápis je 2 000 Kč. Některé banky mohou chtít i nový odhad nemovitosti.
 
 Často se ale vyplatí zůstat. Když vaše banka nabídne stejné nebo podobné podmínky jako konkurence, ušetříte si papírování. Je to vždycky něco za něco.
 
+Na rovinu: kvůli desetině procenta bych banku neměnil. Sazba je pro mě až na třetím nebo čtvrtém místě. Důležitější je, jak se s bankou dá domluvit potom. Jestli vám dovolí splatit část dřív, přesunout zástavu na jiný byt, nebo později snížit sazbu. Banka je parťák na dlouhou dobu.
+
+A i když fixace ještě nekončí, můžete se své banky zeptat, jestli by vám sazbu nesnížila. Nárok na to nemáte. Ale u velkých bank to v praxi často projde. Napsat jednou za fixaci, že u nich chcete zůstat, ale chcete lepší podmínky, nic nestojí. Rozdíl jednoho procentního bodu dělá u 3 milionů na 30 let skoro 2 000 Kč měsíčně.
+
 ## Konec fixace je chvíle, kdy můžete splatit víc
 
 Na konci fixace můžete zdarma splatit jakoukoliv část hypotéky, klidně celou. Pokud máte úspory, které nepotřebujete jako rezervu, je to dobrá příležitost dluh zmenšit.
 
-Pozor ale na druhou stranu. Pokud byste chtěli banku změnit uprostřed fixace, banka si může říct o poplatek. Ten je maximálně 1 % ze splacené částky a nejvýš 50 000 Kč. Proto se vyplatí řešit změny právě na konci fixace.
+Než to uděláte, položte si jednu otázku. Umíte s těmi penězi jinde vydělat víc, než kolik platíte na úroku? Pokud ne, splacení dává smysl. A vždycky si nechte rezervu aspoň na pár splátek. Stát se může cokoliv, kdykoliv, komukoliv.
+
+Mimo konec fixace můžete jednou ročně k výročí smlouvy splatit zdarma až 25 % dluhu. Bance to obvykle musíte oznámit předem, zhruba dva měsíce.
+
+Pokud byste chtěli banku změnit uprostřed fixace, banka si může říct o poplatek. Ten je maximálně 1 % ze splacené částky a nejvýš 50 000 Kč. Čím méně z fixace zbývá, tím bývá menší. Přesnou částku vám banka vyčíslí k jakémukoliv datu, obvykle do deseti dnů. Proto se vyplatí řešit velké změny hlavně na konci fixace.
 
 ## Jakou délku fixace zvolit
 
@@ -69,7 +79,6 @@ Rozhodněte se podle toho, jak moc byste unesli vyšší splátku a co plánujet
 
 - **Nepodepisujte první nabídku automaticky.** Pokud nic neuděláte, obvykle vám prostě začne platit nová sazba, kterou vám banka nabídla.
 - **Hlídejte si lhůty ve smlouvě.** Některé smlouvy mají krátké termíny na reakci.
-- **Nic nového na splátky.** Pokud zvažujete přechod k jiné bance, bude vás posuzovat znovu. Každá nová splátka vám může zkomplikovat situaci.
 
 ## Závěr
 
@@ -86,7 +95,3 @@ Ideálně tři až šest měsíců předem. Některé banky umí novou sazbu dom
 ### Musím na konci fixace zůstat u své banky?
 
 Nemusíte. Na konci fixace můžete bez sankce přejít jinam nebo hypotéku splatit.
-
-### Co když nic neudělám?
-
-Obvykle vám začne platit nová sazba, kterou vám banka nabídla. Nemusí být ta nejlepší, jakou byste mohli dostat.

@@ -13,21 +13,17 @@ kategorie: Podnikatelé
 
 Většina bank chce, abyste podnikali celý rok a měli za sebou podané daňové přiznání.
 
-Pokud jste začali podnikat nedávno, neznamená to automaticky „ne“. Nejkratší cesta, kterou znám, je šest měsíců. Po půl roce podnikání umí některé banky, například ČSOB, spočítat váš příjem z výpisů z účtu za poslední tři měsíce. Kratší cestu neznám.
+Pokud jste začali podnikat nedávno, neznamená to automaticky „ne“. Nejkratší cesta, kterou znám, je šest měsíců. Po půl roce podnikání umí některé banky, například ČSOB, spočítat váš příjem z výpisů z účtu za poslední tři měsíce.
 
 Pozor na jednu věc. Těch šest měsíců se počítá od založení živnosti, ne od první faktury.
 
 ### Mám odejít ze zaměstnání a podnikat?
 
-Na schůzkách tohle řeší hlavně lidé, kteří dostali nabídku dělat totéž na živnost za víc peněz. Vezměme si člověka, který v zaměstnání bere 44 000 Kč na ruku. Na živnost by fakturoval kolem 100 000 Kč měsíčně.
-
-Ze 100 000 Kč fakturace by i ta nejvstřícnější banka uznala zhruba 55 000 Kč. To je o 11 000 Kč víc než výplata. Zhruba milion hypotéky navíc. Jenže na živnost čeká většina bank rok a přiznání. Jako zaměstnanec dosáhne na hypotéku hned po zkušební době.
+Vezměme si člověka, který v zaměstnání bere 44 000 Kč na ruku a dostal nabídku dělat totéž na živnost za zhruba 100 000 Kč fakturace měsíčně. I ta nejvstřícnější banka by z toho uznala kolem 55 000 Kč. Zhruba milion hypotéky navíc. Jenže až po roce podnikání. Jako zaměstnanec dosáhne na hypotéku hned po zkušební době.
 
 Když potřebujete bydlet do roka, vyhraje zaměstnání. Když máte čas, může být dlouhodobě lepší živnost.
 
 ## Z čeho banka počítá váš příjem
-
-U zaměstnance je to jednoduché. Výplata na účtu.
 
 U živnostníka banka obvykle vezme poslední daňové přiznání. A nedívá se na to, kolik jste vyfakturovali. Dívá se na zisk. Tedy na to, co zbyde, když od příjmů odečtete výdaje.
 
@@ -37,9 +33,7 @@ Pro daně je to výhodné. Pro banku to ale znamená, že váš zisk je na papí
 
 Další věc: banka obvykle vezme zisk z přiznání a vydělí ho dvanácti. I když jste podnikali jen část roku.
 
-Měl jsem klienta, který začal podnikat v červenci. Za půl roku měl zisk kolem 100 000 Kč. Ve skutečnosti tedy zhruba 16 000 Kč měsíčně. Banka ale vydělila dvanácti, protože přiznání je za rok. Vyšlo jí kolem 8 000 Kč měsíčně. A ani to nevzala celé. Když jsme našli banku, která to umí spočítat jinak, přidalo mu to zhruba půl milionu hypotéky. Celý rok se jinak ukáže až v dalším přiznání.
-
-Přiznání má navíc u banky „trvanlivost“. Platí zhruba 15 měsíců od konce roku, za který je. Do konce března tak většina bank ještě vezme přiznání za předloňský rok, některé chtějí nové dřív. Pokud podáváte přiznání přes daňového poradce s delším termínem, obvykle stačí potvrzení od poradce a výpisy z účtu za poslední tři měsíce.
+Měl jsem klienta, který začal podnikat v červenci. Za půl roku měl zisk kolem 100 000 Kč. Ve skutečnosti tedy zhruba 16 000 Kč měsíčně. Banka ale vydělila dvanácti, protože přiznání je za rok. Vyšlo jí kolem 8 000 Kč měsíčně. A ani to nevzala celé. Když jsme našli banku, která to umí spočítat jinak, přidalo mu to zhruba půl milionu hypotéky.
 
 ## Pojďme to spočítat
 
@@ -64,11 +58,9 @@ Pokud platíte paušální daň, nepodáváte daňové přiznání. Banka tedy n
 
 Banky v tom případě chtějí obvykle výpisy z podnikatelského účtu za posledních několik měsíců. Z nich spočítají, kolik vám přišlo. Pak od toho odečtou výdaje podle druhu živnosti, stejně jako u paušálu. A některé odečtou i samotnou paušální daň, kterou platíte.
 
-Pro představu: v roce 2027 bude paušální daň v prvním pásmu 9 662 Kč měsíčně. U menších příjmů je to znát.
-
 Pro banku jste s paušální daní tak trochu záhada. Některé banky s ní umí pracovat, jiné skoro vůbec. Výběr bank je tedy menší.
 
-Pokud plánujete hypotéku, zvažte, jestli z paušální daně na rok nevystoupit a nepodat normální přiznání. Zaplatíte nejspíš víc na daních. Ale budete vybírat z většiny bank. Je to vždycky něco za něco, takže si nechte spočítat obojí. Přihlásit se k paušální dani na rok 2027 je potřeba do 11. ledna 2027, takže rozhodnutí přichází právě teď.
+Pokud plánujete hypotéku, zvažte, jestli z paušální daně na rok nevystoupit a nepodat normální přiznání. Zaplatíte nejspíš víc na daních. Ale budete vybírat z většiny bank. Nechte si spočítat obojí. O paušální dani na příští rok se rozhoduje vždy na jeho začátku. Pro rok 2027 je termín 11. ledna 2027.
 
 Co z toho plyne: posílejte všechny platby od zákazníků na jeden podnikatelský účet. Banka uzná jen to, co na účtu vidí a co jde doložit fakturou.
 
@@ -88,14 +80,10 @@ Na schůzkách to slyším často. „Vezmu si úvěr na IČO a koupím si za n�
 - **Dražší předčasné splacení.** U podnikatelského úvěru můžete zaplatit 3 až 5 % ze splacené částky. U hypotéky je to nejvýš 1 % a maximálně 50 000 Kč.
 - **Menší ochrana.** Podnikatelský úvěr nechrání zákon, který chrání běžné lidi s hypotékou a půjčkami.
 
-A ještě jedna věc. Pokud už nějaký podnikatelský úvěr splácíte, banka ho při hypotéce započítá. Ubírá vám z ní stejně jako jakákoliv jiná splátka.
-
 ## Na co si dát pozor
 
 - **Mluvte s účetní dřív, než podáte přiznání.** Pokud plánujete hypotéku v příštím roce, řekněte to účetní předem. Je to vždycky něco za něco. Nižší daně znamenají menší hypotéku.
 - **Nemějte dluhy na daních a pojištění.** Nedoplatek na finančním úřadě, sociálním nebo zdravotním pojištění je pro banku vážný problém.
-- **Nemíchejte osobní a podnikatelský účet.** Banka se pak v příjmech těžko vyzná.
-- **Nekupujte nic nového na splátky.** Platí to pro podnikatele stejně jako pro zaměstnance.
 
 ## Závěr
 
@@ -112,7 +100,3 @@ Nejdřív po šesti měsících od založení živnosti, a jen u některých ban
 ### Můžu mít hypotéku, když platím paušální daň?
 
 Ano, ale ne v každé bance. Banka váš příjem spočítá z výpisů z podnikatelského účtu, protože přiznání nemáte. Některé banky to skoro neumí.
-
-### Potřebuji daňová přiznání za dva roky?
-
-Většinou ne. Obvykle stačí poslední podané přiznání. Některé banky ale můžou chtít delší historii, hlavně když vám příjmy výrazně kolísají.
