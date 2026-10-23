@@ -15,7 +15,7 @@ Když žádáte o hypotéku jako zaměstnanec, banku nezajímá, kolik vám při
 
 Proto po vás chce potvrzení od zaměstnavatele. V něm je váš průměrný čistý příjem. Většina bank se dívá na průměr za posledních 12 měsíců a k tomu za poslední 3 měsíce. A chce výpisy z účtu, kam vám výplata chodí.
 
-Čistý příjem je to, co vám opravdu přijde na účet. Ne číslo ve smlouvě. Ze 40 000 Kč hrubého je na účtu zhruba 32 000 Kč.
+Čistý příjem je to, co vám opravdu přijde na účet. Ne hrubá částka ve smlouvě.
 
 Co z toho plyne? Přidání se do průměru dostává postupně. Měsíc po měsíci.
 
@@ -48,7 +48,7 @@ Když vám zvedli základní plat a máte to černé na bílém, tedy nový plat
 
 Jinak je to s odměnami, které se měsíc od měsíce mění. Tam chce banka vidět, že chodí pravidelně a že vám opravdu přišly. S bonusem, který vám šéf teprve slíbil, nepočítá.
 
-## 13. plat a roční odměny
+### 13. plat a roční odměny
 
 Pro banku je 13. plat odměna. Když ho dostáváte každý rok, je ve vašem ročním průměru a banky s ním obvykle počítají. Pomůže, když jde doložit, že ho nedostáváte poprvé.
 

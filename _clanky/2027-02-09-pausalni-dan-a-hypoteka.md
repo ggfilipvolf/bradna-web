@@ -30,7 +30,7 @@ Pozor na dvě věci:
 
 ## Pojďme to spočítat
 
-Vezměme řemeslníka na paušální dani, který má práci hlavně od jara do podzimu. Za celý rok mu od klientů přijde 620 000 Kč. Od srpna do října zhruba 70 000 Kč měsíčně. Od listopadu do ledna jen kolem 23 000 Kč měsíčně.
+Vezměme modelově svatebního fotografa na paušální dani. Práci má hlavně od jara do podzimu, v zimě skoro nic. Za celý rok mu od klientů přijde 620 000 Kč. Od srpna do října zhruba 70 000 Kč měsíčně. Od listopadu do ledna jen kolem 23 000 Kč měsíčně.
 
 Počítám modelově: banka mu uzná 50 % toho, co přišlo, na splátky pustí 55 % uznaného příjmu, úrok 5,5 %, splatnost 30 let.
 
