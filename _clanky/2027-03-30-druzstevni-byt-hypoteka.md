@@ -17,13 +17,13 @@ U družstevního bytu nekupujete byt. Kupujete podíl v družstvu. Byt patří d
 
 U klasické hypotéky slouží byt bance jako jistota. Tomu se říká zástava. Když hypotéku nesplácíte, banka může byt prodat. Jenže družstevní byt vám nepatří, takže ho bance do zástavy dát nemůžete.
 
-Proto na něj klasickou hypotéku sám o sobě nedostanete. Musíte to vyřešit jinak.
+Proto na něj klasickou hypotéku sám o sobě nedostanete. Musíte to vyřešit jinak. A když to nevyřešíte, platíte za úvěr klidně o 2 až 3 procenta víc, dokud se byt nepřevede do vašeho vlastnictví. Na rovinu: plus tři procenta, to je zdrcující.
 
 ## Jaké máte možnosti
 
 **1. Zástava jiné nemovitosti.** Bance dáte jako jistotu jiný byt nebo dům. Třeba svůj, nebo rodičů, pokud souhlasí. Pak dostanete normální hypotéku s normální sazbou. Až se družstevní byt převede do vašeho vlastnictví, dá se zástava přehodit na něj a byt rodičů se uvolní.
 
-**2. Úvěr, který počká na převod.** Některé banky půjčí na družstevní byt bez zástavy, pokud družstvo plánuje převést byty do osobního vlastnictví. Až k převodu dojde, změní se úvěr na klasickou hypotéku. Do té doby je ale dražší. Převod musí proběhnout v termínu, většinou do jednoho až dvou let. Jinak hrozí sankce.
+**2. Úvěr, který počká na převod.** Některé banky půjčí na družstevní byt bez zástavy, pokud družstvo plánuje převést byty do osobního vlastnictví. Až k převodu dojde, změní se úvěr na klasickou hypotéku. Do té doby je ale dražší. Převod musí proběhnout v termínu. Z praxe většinou do roka, u některých bank do dvou let. Jinak hrozí sankce.
 
 **3. Úvěr ze stavebního spoření.** Do zhruba 2,5 milionu ho dostanete bez zástavy. Je ale zhruba o procento dražší než hypotéka a splácí se kratší dobu, obvykle 20 až 25 let.
 
@@ -32,9 +32,9 @@ Proto na něj klasickou hypotéku sám o sobě nedostanete. Musíte to vyřešit
 Potřebujete 2,4 milionu na družstevní byt. Pro srovnání počítám s modelovou sazbou hypotéky 5,5 % a splatností 30 let.
 
 - **Hypotéka se zástavou jiného bytu:** splátka zhruba **13 600 Kč**.
-- **Úvěr o 2 procentní body dražší:** splátka zhruba 16 800 Kč. To je o **3 150 Kč** víc každý měsíc.
-- **Úvěr o 3 procentní body dražší:** splátka zhruba 18 500 Kč. O **4 800 Kč** víc. Za rok skoro 58 tisíc.
-- **Stavební spoření o procento dražší na 25 let:** splátka zhruba 16 200 Kč. O **2 600 Kč** víc.
+- **Úvěr o 2 procenta dražší (7,5 %):** splátka zhruba 16 800 Kč. To je o **3 150 Kč** víc každý měsíc.
+- **Úvěr o 3 procenta dražší (8,5 %):** splátka zhruba 18 500 Kč. O **4 800 Kč** víc. Za rok skoro 58 tisíc.
+- **Stavební spoření o procento dražší (6,5 %) na 25 let:** splátka zhruba 16 200 Kč. O **2 600 Kč** víc.
 
 Rozdíl v kupní ceně mezi družstevním a osobním bytem tak můžete klidně „prosplácet“, když to špatně nastavíte.
 
@@ -50,11 +50,13 @@ Na rovinu: je to vždycky něco za něco. Zástava rodičů vyjde nejlevněji, a
 
 **Co přesně kupujete.** Nechte si ukázat smlouvu o převodu podílu a potvrzení družstva, že prodávající nemá dluhy.
 
-## Příběh ze schůzky
+## Jak o tom přemýšlet
 
-Nedávno za mnou přišel mladý pár. Našli družstevní byt, který byl o pár set tisíc levnější než podobné byty v okolí. Úvěr, který jim nabídli jinde, byl ale o několik procentních bodů dražší, dokud se byt nepřevede. A převod nebyl ve stanovách nijak domluvený.
+Když vidím družstevní byt o pár set tisíc levnější než podobné byty v okolí, počítám vždycky dvě věci. Kolik ušetříte na ceně. A kolik zaplatíte navíc za dražší úvěr, než se byt převede.
 
-Spočítali jsme si to. Při takové sazbě by o úsporu z kupní ceny přišli během pár let. Nakonec jim pomohli rodiče zástavou svého bytu a měli normální hypotéku. A dohodli jsme se, že jakmile družstvo byty převede, zástavu z bytu rodičů sundáme.
+Pojďme to říct na čísle z výpočtu výše. Když platíte o 4 800 Kč měsíčně víc, je to za rok skoro 58 tisíc. Úspora 300 tisíc na ceně by tak za zhruba pět let zmizela. A pokud se převod protáhne, zmizí ještě dřív.
+
+Proto se nejdřív ptám: kdy přesně se byt převede? Je to napsané? A je v rodině byt, který by mohl na chvíli posloužit jako zástava? Podle odpovědí pak vybereme cestu.
 
 ## Na co si dát pozor
 

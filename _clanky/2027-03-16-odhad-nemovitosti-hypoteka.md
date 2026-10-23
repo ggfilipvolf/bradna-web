@@ -15,7 +15,7 @@ Jenže banka to vidí jinak. Banka nepůjčuje z ceny, půjčuje z odhadu. A odh
 
 Odhad je ocenění bytu nebo domu, které si nechá udělat banka. Říká, kolik nemovitost podle banky opravdu stojí. Z tohoto čísla se pak počítá, kolik vám banka půjčí.
 
-Odhadce vybírá banka. Buď vám ho přidělí, nebo vám dá seznam, ze kterého si vyberete. Odhad, který si objednáte sami, banka většinou nevezme. Pro první představu vám stačí cenové mapy na internetu. Plus mínus deset procent zhruba sedí.
+Odhadce vybírá banka. Buď vám ho přidělí, nebo vám dá seznam, ze kterého si vyberete. Proto si vlastního odhadce dopředu většinou nemusíte platit. Odhad se stejně udělá znovu. Pro první představu vám stačí cenové mapy na internetu. Plus mínus deset procent zhruba sedí.
 
 Jak odhadce cenu určí? Nejčastěji porovnáním. Podívá se, za kolik se v okolí prodaly podobné byty. Hraje roli lokalita, stav, velikost, dispozice a jak dobře se dá byt prodat. Takže cenu vašeho bytu z velké části určí sousedé, kteří prodávali před vámi.
 
@@ -37,11 +37,11 @@ Funguje to i obráceně. Když odhad vyjde nad kupní cenou, banka vám může p
 
 Dnes se u bytů často dělá odhad na dálku. Odhadce se na byt nepřijde podívat. Pošlete fotky, plochu a popis a on ocení byt podle dat z okolí.
 
-Je to rychlé a u některých bank zadarmo. Například Česká spořitelna a ČSOB ho podle dostupných informací z října 2026 nabízí bez poplatku.
+Je to rychlé a u některých bank zadarmo.
 
 Jenže odhad od stolu vychází spíš opatrněji. Nevidí novou kuchyň, opravenou koupelnu ani hezký výhled.
 
-U některých bank si můžete říct, aby odhadce přišel osobně. Odhad s návštěvou bytu stojí podle stejného zdroje kolem 5 000 Kč, u domu o něco víc. U bytu v dobrém stavu se to může vyplatit. Na rovinu ale: ani tohle není jistota. Banka si může i jeho číslo ještě upravit.
+U některých bank si můžete říct, aby odhadce přišel osobně. Něco to stojí, u bytu z mé praxe kolem 5 000 Kč. Ale rozdíl v odhadu může být statisíce. U bytu v dobrém stavu se to může vyplatit. Na rovinu ale: ani tohle není jistota. Banka si může i jeho číslo ještě upravit.
 
 U domů odhadce většinou přijíždí osobně. Domluvte se dopředu, kdo mu otevře.
 
@@ -69,11 +69,11 @@ Nejčastější důvody, které vidím:
 
 ### Kolik stojí odhad nemovitosti?
 
-U bytu zhruba 5 000 Kč, u domu o něco víc (stav k říjnu 2026). Odhad od stolu je u některých bank zdarma.
+U bytu zhruba 5 000 Kč, u domu o něco víc. Odhad od stolu je u některých bank zdarma a u řady bank se dá poplatek za odhad vyjednat.
 
 ### Můžu si odhad zařídit sám?
 
-Můžete, ale banka ho většinou nevezme. Má svoje odhadce. Vlastní odhad se hodí spíš pro vaši představu.
+Můžete, ale banka většinou pošle svého odhadce a odhad udělá znovu. Pro představu vám stačí cenové mapy.
 
 ### Co když odhad vyjde nízko?
 

@@ -11,17 +11,28 @@ Tuhle otázku slyším na schůzkách nejčastěji. Lidé čekají složitý vzo
 
 ## Banka počítá s penězi na ruku, ne s hrubou mzdou
 
-Na pracovní smlouvě máte třeba 50 000 Kč. To je ale hrubá mzda. Na účet vám přijde zhruba 38 až 40 tisíc. A banka počítá právě s tím, co vám opravdu přijde na účet.
+Na pracovní smlouvě máte třeba 40 000 Kč. To je ale hrubá mzda. Na účet vám přijde zhruba 32 000 Kč. A banka počítá právě s tím, co vám opravdu přijde na účet.
 
-Proč? Protože splátku budete platit z čisté výplaty, ne z hrubé. Takže když si budete hypotéku odhadovat sami, vezměte si výplatní pásku nebo výpis z účtu. Ne číslo ze smlouvy.
+Na schůzkách to vidím často. Lidé si počítají hypotéku z hrubé mzdy. Rozdíl 8 000 Kč měsíčně vypadá jako drobnost. Jenže v hypotéce to dělá zhruba 800 000 Kč, se kterými počítali a které jim banka nedá.
+
+Takže když si budete hypotéku odhadovat sami, otevřete si výplatní pásku nebo výpis z účtu. Ne číslo ze smlouvy.
 
 Pokud žádáte ve dvou, banka vaše čisté příjmy sečte.
+
+### Co banka do příjmu započítá a co ne
+
+- **Výplata ze zaměstnání** ano, obvykle jako průměr za poslední měsíce.
+- **Rodičovská** ano.
+- **Výživné na děti** většinou ano.
+- **Nájem, který vám někdo platí**, obvykle zhruba ze 70 %.
+- **Přivýdělek na živnost** ano, ale jen z části a až když živnost běží alespoň půl roku až rok. Z 10 000 Kč vám banka uzná třeba 4 500 Kč.
+- **Peníze na ruku**, které nikde nejsou vidět, banka nevezme.
 
 ## Pravidlo první: splátka do zhruba 40 % příjmu
 
 Česká národní banka bankám doporučuje, aby všechny vaše splátky dohromady nebyly vyšší než zhruba 40 % čistého měsíčního příjmu. Banky mají svá vlastní pravidla, ale většina se drží kolem téhle hranice.
 
-Jednoduchá pomůcka z praxe: každých 10 000 Kč čistého příjmu znamená zhruba milion korun hypotéky. Je to orientační číslo, ale na první odhad stačí.
+Jednoduchá pomůcka z praxe: každých 10 000 Kč čistého příjmu navíc nebo méně posune hypotéku zhruba o milion korun. Je to orientační číslo, ale na rychlý odhad stačí.
 
 ## Pravidlo druhé: celý dluh do zhruba osminásobku ročního příjmu
 
@@ -33,7 +44,9 @@ Banka vám nepůjčí celou cenu bytu. Pokud vám je méně než 36 let, půjč�
 
 A pozor na jednu věc. Banka nepůjčuje z ceny, půjčuje z odhadu. Odhad je cena, na kterou nemovitost ocení odhadce, se kterým banka spolupracuje. Když je odhad nižší než kupní cena, rozdíl doplácíte vy.
 
-Na schůzkách často vidím, že lidé mají dost vysoký příjem, ale málo našetřeno. Pak není problém splátka. Problém je, že nemají na těch 10 nebo 20 %.
+Na schůzkách často vidím, že lidé mají dost vysoký příjem, ale málo našetřeno. Nedávno za mnou přišla klientka s platem kolem 42 000 Kč na ruku, bez jakýchkoliv půjček. Podle příjmu by dosáhla na hypotéku 3,5 až 4 miliony. Jenže měla našetřeno kolem 200 000 Kč. Banka jí jako člověku do 36 let půjčí 90 %. Těch 200 000 Kč tedy stačilo na byt nejvýš za 2 miliony.
+
+Strop nebyl v příjmu. Byl v úsporách. Řešení bylo buď ještě chvíli šetřit, nebo požádat rodinu, jestli by bance neručila svou nemovitostí.
 
 ## Pojďme to spočítat
 
@@ -55,9 +68,11 @@ Splátka 3,6 milionu by při 5,5 % na 30 let vyšla zhruba na 20 440 Kč. To je 
 
 Každá splátka, kterou už máte, se odečte. Pravidlo z praxe: každých 1 000 Kč jiných splátek ubere zhruba 180 000 Kč z hypotéky.
 
+Pozor na společné půjčky. Když jste si s partnerem vzali půjčku napůl, každý z vás ji má v záznamech celou. Jdete-li pak pro hypotéku sami, banka vám odečte celou splátku, ne polovinu.
+
 Kdyby náš pár splácel auto 4 500 Kč měsíčně, podle splátky by dosáhl už jen na zhruba 3,6 milionu místo 4,4. Auto by mu ubralo skoro 800 tisíc.
 
-To samé platí pro nákupy na splátky, kreditní karty nebo kontokorent. Banka u nich často počítá s celým limitem, i když ho nečerpáte. O tom napíšu samostatný článek.
+To samé platí pro nákupy na splátky, kreditní karty nebo kontokorent. Kreditku v šuplíku banka bere, jako byste ji měli celou vyčerpanou, a počítá z jejího limitu měsíční splátku. Karta s limitem 40 000 Kč vám tak může ubrat až zhruba 350 000 Kč hypotéky. Podrobně o tom píšu v samostatném článku.
 
 ## Na co si dát pozor
 

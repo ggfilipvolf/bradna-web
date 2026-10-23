@@ -65,6 +65,7 @@ Kde se dá ušetřit nejvíc? Na začátku. Týden, který ztratíte sháněním
 
 - **Nepodepisujte rezervaci, dokud nevíte, kolik vám banka půjčí.** Nejdřív počítat, pak podepisovat.
 - **Během schvalování nic nového na splátky.** Telefon, gauč, auto. Banka se těsně před posláním peněz může podívat znovu. A když najde něco nového, může všechno zastavit.
+- **Myslete na papír z finančního úřadu.** Některé banky chtějí před posláním peněz potvrzení, že nic nedlužíte na daních. Skoro každý na něj zapomene. Požádejte o něj včas, ať kvůli jednomu papíru nestojí celá hypotéka.
 - **Neměňte práci uprostřed vyřizování.** Výpověď nebo nová zkušební doba umí schválení shodit.
 - **Celou schválenou částku si půjčit nemusíte.** Schválili vám 2,5 milionu a byt nakonec stojí méně? Nevadí. Jen si pohlídejte, kolik si musíte půjčit, aby vám banka neúčtovala poplatek.
 - **Jisté to je, až když máte podepsanou smlouvu.** Nikdo vám nemůže slíbit schválení dopředu. Schvaluje banka.

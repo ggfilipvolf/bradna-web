@@ -19,7 +19,7 @@ Přesný seznam se u každé banky trochu liší. Tohle je základ, se kterým p
 - Druhý doklad, třeba řidičák nebo pas.
 - Telefon a e-mail.
 
-To je celé. Do registrů dlužníků se banka podívá sama, to dokládat nemusíte.
+To je celé. Jestli nemáte jinde dluhy, si banka zjistí sama. To dokládat nemusíte.
 
 ## Hromádka 2: Váš příjem
 
@@ -65,7 +65,7 @@ V nejhorším případě tedy kolem 9 000 Kč. Když se vyjedná nulový odhad, 
 
 Některé banky chtějí před uvolněním peněz potvrzení, že nic nedlužíte. Hlavně od finančního úřadu, u podnikatelů často i od zdravotní pojišťovny a sociálky.
 
-Žádá se o něj přes internet, ale vystavení chvíli trvá. Vyřiďte si ho včas. Ať vám kvůli jednomu papíru nestojí celá hypotéka.
+Žádá se o něj přes internet nebo datovou schránku, ale vystavení chvíli trvá. Vyřiďte si ho včas. Ať vám kvůli jednomu papíru nestojí celá hypotéka.
 
 A rovnou si zkontrolujte, jestli nikde nic nedlužíte. Daň z nemovitosti, pokuta, poplatek. Měl jsem klienta, kterému hypotéku zamítli kvůli pár stovkám daně, o kterých vůbec nevěděl. Dopis chodil na starou adresu a mezitím z toho byla exekuce. Dluh, o kterém víte, vyřešíte za pět minut. Dluh, o kterém nevíte, vám může shodit bydlení.
 
@@ -85,7 +85,7 @@ Až bude hypotéka schválená, banka bude chtít ještě pár věcí:
 
 **Staré přiznání.** Daňové přiznání má u banky omezenou trvanlivost, zhruba patnáct měsíců. Na jaře si to pohlídejte.
 
-**Neschopenka.** Dokud trvá, banka ve výpisech uvidí dávky místo výplaty. Hypotéku v tu chvíli většinou nedostanete.
+**Nečekejte na poslední chvíli.** Od žádosti po zápis do katastru počítejte zhruba se dvěma až třemi měsíci. Když máte papíry připravené, nic se nezdrží kvůli vám.
 
 ## Časté otázky
 

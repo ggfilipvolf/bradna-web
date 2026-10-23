@@ -17,7 +17,7 @@ Tohle je nejjednodušší cesta. Banka počítá s tím, co vám čistého chod�
 
 Dvě věci, které ajťáky překvapí:
 
-**Strop nebývá plat, ale vlastní peníze.** Při čistém příjmu kolem 85 000 Kč by vám banka podle příjmu půjčila hodně. Jenže na byt potřebujete i vlastní peníze. Do 36 let aspoň 10 % hodnoty bytu, ve 36 a starší aspoň 20 %. U bytu za 6,5 milionu je to 650 tisíc, nebo 1,3 milionu.
+**Strop nebývá plat, ale vlastní peníze.** Při čistém příjmu kolem 85 000 Kč a bez jiných půjček vychází podle příjmu hypotéka kolem 6 milionů, u vstřícnějších bank i víc. Jenže na byt potřebujete i vlastní peníze. Do 36 let aspoň 10 % hodnoty bytu, ve 36 a starší aspoň 20 %. U bytu za 6,5 milionu je to 650 tisíc, nebo 1,3 milionu.
 
 **Bonusy banka vidí v průměru.** Většina bank se dívá na průměr příjmu za posledních 12 měsíců a za poslední 3. Roční bonus se tak do průměru rozpustí. Záleží i na tom, kdy přesně do banky jdete.
 
@@ -27,11 +27,11 @@ Pozor ještě na zkušební dobu. Kdo právě změnil práci, je pro banku nejis
 
 Tohle je u ajťáků nejčastější. Pracujete celý rok pro jednu firmu, ale fakturujete na živnost.
 
-Většina bank vychází z daňového přiznání. Nerozhoduje, kolik jste vyfakturovali. Rozhoduje, kolik vám v přiznání zůstalo po odečtení výdajů. Když uplatňujete paušální výdaje, banka bere tenhle „zisk“ a dál s ním počítá podle svého vzorce.
+Většina bank vychází z daňového přiznání. Nerozhoduje, kolik jste vyfakturovali. Rozhoduje, kolik vám v přiznání zůstalo po odečtení výdajů. Když uplatňujete paušální výdaje, tedy místo účtenek si odečtete pevné procento z příjmů, banka bere tenhle „zisk“ a dál s ním počítá podle svého vzorce.
 
 Některé banky u ajťáků na živnost počítají s nižšími výdaji, než je daňový paušál. Pro banku vám pak „zůstane“ víc peněz. Není to ale pravidlo u všech bank a každá to má jinak.
 
-A pak jsou banky, které umí počítat příjem z výpisů z účtu. Hodí se to hlavně těm, kdo podnikají krátce a nemají ještě celé přiznání. Některé to umí už po šesti měsících od založení živnosti. Pozor, počítá se od založení, ne od první faktury.
+A pak jsou banky, které umí počítat příjem z výpisů z účtu. Hodí se to hlavně těm, kdo podnikají krátce a nemají ještě celé přiznání. Některé, třeba ČSOB, to umí už po šesti měsících podnikání. Spočítají příjem z výpisů za poslední tři měsíce. Kratší cestu neznám. Pozor, šest měsíců se počítá od založení živnosti, ne od první faktury.
 
 ## Pojďme to spočítat
 
@@ -40,7 +40,7 @@ Modelový příklad: vývojář fakturuje německé firmě 6 000 eur měsíčně
 - **S daňovým paušálem 60 %:** v přiznání mu zůstane 720 000 Kč za rok. To je 60 000 Kč měsíčně.
 - **Když banka počítá výdaje jen 50 %:** zůstane mu 900 000 Kč za rok. To je 75 000 Kč měsíčně.
 
-Rozdíl 15 000 Kč měsíčně, a to jen podle toho, jakou banku zvolí. Banka z toho ještě odečte daň a pojištění, takže skutečný rozdíl v hypotéce bude menší. I tak to snadno dělá statisíce.
+Rozdíl 15 000 Kč měsíčně, a to jen podle toho, jakou banku zvolí. Banka s tím pak dál počítá podle svého vzorce, takže přesný rozdíl v hypotéce se liší. Podle pravidla „10 000 Kč příjmu je zhruba milion hypotéky“ ale snadno jde o statisíce až přes milion.
 
 ## 3. Faktury ze zahraničí a peníze v cizí měně
 
@@ -56,11 +56,11 @@ Kontraktor s fakturami do zahraničí to má z pohledu banky stejně jako jiný 
 
 ## Na co si dát pozor
 
-**Fakturujte pravidelně.** Děláte pro klienta celý rok, ale fakturujete jednou za čtvrt roku? Banka, která se dívá na posledních pár výpisů, pak může vidět měsíce, kdy vám nic nepřišlo. Za stejnou práci je lepší fakturovat každý měsíc. Stejné peníze, jen rozložené. Nastavte si to aspoň půl roku před žádostí.
+**Fakturujte pravidelně.** Děláte pro klienta celý rok, ale fakturujete jednou za čtvrt roku? Banka, která se dívá na posledních pár výpisů, pak může vidět měsíce, kdy vám nic nepřišlo. Viděl jsem i banku, která z šesti měsíců škrtla ten nejsilnější a nejslabší a zbytek zprůměrovala. Klientovi chodila jedna velká faktura za rok, a po škrtnutí nezbylo skoro nic. Stejné přiznání, jiná banka, úplně jiné číslo. Za stejnou práci je lepší fakturovat každý měsíc. Stejné peníze, jen rozložené. Nastavte si to aspoň půl roku před žádostí.
 
-**Kdo vám platí.** Některé banky, které počítají příjem z výpisů, chtějí, aby většina peněz chodila od jedné nebo dvou stálých firem. Mít deset drobných klientů je pro ně složitější.
+**Kdo vám platí.** Některé banky, které počítají příjem z výpisů, chtějí, aby většina peněz chodila od jedné firmy, případně od dvou ze stejného oboru. Mít deset drobných klientů je pro ně složitější.
 
-**Podnikatelský úvěr místo hypotéky.** Na vlastní bydlení si neberte úvěr na IČO. Bývá dražší a hůř se splácí předčasně. Na bydlení je hypotéka nejlevnější peníze, jaké seženete.
+**Podnikatelský úvěr místo hypotéky.** Na vlastní bydlení si neberte úvěr na IČO. Úrok bývá zhruba o procento vyšší a předčasné splacení vás může stát 3 až 5 % z dlužné částky. U hypotéky je to nejvýš 1 % a maximálně 50 000 Kč. Na bydlení je hypotéka nejlevnější peníze, jaké seženete.
 
 **Dluh na daních a pojištění.** Některé banky chtějí před uvolněním peněz potvrzení, že nic nedlužíte. Vyřiďte si ho včas.
 
