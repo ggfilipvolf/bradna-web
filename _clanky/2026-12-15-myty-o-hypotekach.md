@@ -40,7 +40,7 @@ Co s tím? Nechte si udělat odhad dřív, než zaplatíte rezervaci. A funguje 
 
 ### Mýtus 3: Hypoteční specialista stojí peníze
 
-Když si berete hypotéku na vlastní bydlení, mě platí banka. Ne vy.
+Když si berete hypotéku na vlastní bydlení. Ne vy.
 
 A sazbu kvůli tomu vyšší nemáte. Banka má stejné ceny, ať přijdete sami, nebo se mnou. Spíš naopak: vím, kam jít a o co si říct.
 
@@ -99,10 +99,10 @@ Na bydlení většinou hypotéka. Je levnější a splácí se déle, takže spl
 
 ### Platím hypotečnímu specialistovi?
 
-Když si berete hypotéku na vlastní bydlení, většinou ne. Specialistu platí banka a vaše sazba kvůli tomu vyšší není.
+Když si berete hypotéku na vlastní bydlení, většinou ne. A vaše sazba kvůli tomu vyšší není.
 
 ### Musí rodiče na mě převést byt, aby mi pomohli s hypotékou?
 
 Ne. Stačí, když byt dají bance do zástavy. Vlastníky zůstávají oni.
 
-Slyšeli jste o hypotékách něco, čím si nejste jistí? Napište mi. Rád vám řeknu, jak to je ve vaší situaci. Nic vás to nestojí, mě platí banka.
+Slyšeli jste o hypotékách něco, čím si nejste jistí? Napište mi. Rád vám řeknu, jak to je ve vaší situaci. Nic vás to nestojí.

@@ -83,7 +83,7 @@ To samé platí pro nákupy na splátky, kreditní karty nebo kontokorent. Kredi
 
 Kolik vám banka půjčí, si spočítáte ze tří čísel. Příjem na ruku, splátky, které už máte, a vlastní peníze. Nejnižší výsledek je váš strop.
 
-Pokud si nejste jistí, napište mi, kolik vyděláváte a co máte našetřeno. Spočítáme to spolu. Moje služba vás nic nestojí, platí mě banka.
+Pokud si nejste jistí, napište mi, kolik vyděláváte a co máte našetřeno. Spočítáme to spolu. Moje služba vás nic nestojí.
 
 ## Časté otázky
 

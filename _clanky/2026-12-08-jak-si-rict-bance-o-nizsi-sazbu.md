@@ -76,4 +76,4 @@ Nejvýš 1 % z předčasně splacené částky a nejvýš 50 000 Kč. Banka smí
 
 Nejdřív zkuste svou banku. Je to nejjednodušší a nic to nestojí. Odchod dává smysl, když je jinde výrazně levněji i po započtení poplatků.
 
-Máte hypotéku z doby vysokých sazeb a nikdy jste se neptali? Napište mi. Podíváme se, kde jste, a připravím vám srovnání, se kterým můžete za svou bankou jít. Nic vás to nestojí, mě platí banka.
+Máte hypotéku z doby vysokých sazeb a nikdy jste se neptali? Napište mi. Podíváme se, kde jste, a připravím vám srovnání, se kterým můžete za svou bankou jít. Nic vás to nestojí.

@@ -156,7 +156,7 @@ def header(active):
 
 
 def cta_band(title_html="Pojďme to <em class=\"acc\">spočítat.</em>",
-             text="Napište mi, co řešíte. Ozvu se s termínem nezávazného úvodního hovoru – 20 minut, online. Mě platí banka, vás to nic nestojí."):
+             text="Napište mi, co řešíte. Ozvu se s termínem nezávazného úvodního hovoru – 20 minut, online. Konzultace vás nic nestojí."):
     return f"""
 <section class="cta-band">
   <div class="wrap">
@@ -370,7 +370,7 @@ def build_post(p, posts):
     <aside class="article-cta">
       <span class="k">Nezávazná konzultace</span>
       <h2>Chcete to spočítat pro vaši situaci?</h2>
-      <p>Napište mi pár vět o tom, co řešíte. Ozvu se s termínem úvodního hovoru – 20 minut, online. Mě platí banka, vás to nic nestojí.</p>
+      <p>Napište mi pár vět o tom, co řešíte. Ozvu se s termínem úvodního hovoru – 20 minut, online. Konzultace vás nic nestojí.</p>
       <div class="row">
         <a href="/konzultace.html" class="btn btn-primary"><span class="lbl">Chci konzultaci</span> <span class="arrow">→</span></a>
         <a href="tel:+420734249626" class="btn btn-ghost">+420 734 249 626</a>

@@ -77,4 +77,4 @@ Většina bank ano, jako běžný příjem. Sama na hypotéku ale stačit nebude
 
 Nemusíte. Některé banky umí hypotéku schválit dopředu a peníze na vás zhruba rok počkají.
 
-Čekáte přírůstek a řešíte bydlení? Napište mi, kolik oba berete a kdy zhruba plánujete mateřskou. Spočítáme spolu, kdy a za kolik to dává smysl. Nic vás to nestojí, mě platí banka.
+Čekáte přírůstek a řešíte bydlení? Napište mi, kolik oba berete a kdy zhruba plánujete mateřskou. Spočítáme spolu, kdy a za kolik to dává smysl. Nic vás to nestojí.

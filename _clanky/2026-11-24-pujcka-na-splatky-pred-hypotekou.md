@@ -75,4 +75,4 @@ Ano. Je to úvěr jako každý jiný. Banka počítá s měsíční splátkou, n
 
 Ideálně aspoň tři až šest měsíců. A po podpisu hypotéky ještě pár měsíců, než je všechno vyčerpané a zapsané.
 
-Plánujete na jaře hypotéku a přemýšlíte o vánočních nákupech? Sedněte si na chvíli na ruce. Napište mi, co splácíte, a spočítáme, jak na tom jste. Nic vás to nestojí, mě platí banka.
+Plánujete na jaře hypotéku a přemýšlíte o vánočních nákupech? Sedněte si na chvíli na ruce. Napište mi, co splácíte, a spočítáme, jak na tom jste. Nic vás to nestojí.

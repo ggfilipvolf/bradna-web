@@ -90,4 +90,4 @@ Většinou ano, pokud ho dostáváte pravidelně a je ve vašem průměru za pos
 
 S čistou. Tedy s tím, co vám opravdu chodí na účet.
 
-Přidali vám a přemýšlíte, kdy jít do banky? Napište mi, co řešíte. Spočítáme to spolu a najdeme správnou chvíli. Nic vás to nestojí, mě platí banka.
+Přidali vám a přemýšlíte, kdy jít do banky? Napište mi, co řešíte. Spočítáme to spolu a najdeme správnou chvíli. Nic vás to nestojí.

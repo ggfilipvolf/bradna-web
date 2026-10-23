@@ -88,4 +88,4 @@ To nikdo poctivý neřekne z hlavy. Záleží na vaší situaci a na bance. Dá 
 
 U stejné banky většinou ne. U řady bank první žádost sazbu pro vás „zasekne“. Lepší je jeden člověk, který porovná víc bank najednou.
 
-Chcete vědět, jakou sazbu byste dostali vy, a ne jakou slibuje reklama? Napište mi. Spočítáme to na vašich číslech. Nic vás to nestojí, mě platí banka.
+Chcete vědět, jakou sazbu byste dostali vy, a ne jakou slibuje reklama? Napište mi. Spočítáme to na vašich číslech. Nic vás to nestojí.
