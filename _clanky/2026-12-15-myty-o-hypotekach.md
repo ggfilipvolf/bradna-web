@@ -40,7 +40,7 @@ Co s tím? Nechte si udělat odhad dřív, než zaplatíte rezervaci. A funguje 
 
 ### Mýtus 3: Hypoteční specialista stojí peníze
 
-Když si berete hypotéku na vlastní bydlení. Ne vy.
+Když si berete hypotéku na vlastní bydlení, za mou práci neplatíte nic.
 
 A sazbu kvůli tomu vyšší nemáte. Banka má stejné ceny, ať přijdete sami, nebo se mnou. Spíš naopak: vím, kam jít a o co si říct.
 
