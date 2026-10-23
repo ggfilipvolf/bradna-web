@@ -40,7 +40,7 @@ Já to radši mám vyřešené hned. Donesete bance smlouvu s developerem a bank
 
 Dvě věci k tomu:
 
-- **Na čerpání máte omezenou dobu.** U bytu ve výstavbě obvykle kolem dvou let. Když se stavba zpozdí, dá se lhůta většinou prodloužit, často za poplatek. Zeptejte se na to předem.
+- **Na čerpání máte omezenou dobu.** Obecně většinou zhruba rok, u bytu ve výstavbě bývá lhůta delší, podle banky. Když se stavba zpozdí, dá se lhůta většinou prodloužit, často za poplatek. Zeptejte se na to předem.
 - **Schválená hypotéka vám ubírá z dalších půjček.** Jakmile ji podepíšete, ostatní banky ji vidí, jako byste ji už celou splácel. I když jste zatím nevyčerpali ani korunu. Během stavby si proto nic dalšího na splátky neberte.
 
 A zeptejte se developera, jak chce platby. Ne každý dovolí posílat peníze z hypotéky postupně během stavby. A zeptejte se banky, jestli si za čekání na čerpání něco neúčtuje.

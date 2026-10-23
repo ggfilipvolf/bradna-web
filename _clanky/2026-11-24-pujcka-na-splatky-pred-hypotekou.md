@@ -3,7 +3,7 @@ title: Nákup na splátky před hypotékou: o kolik vám zmenší úvěr
 slug: pujcka-na-splatky-pred-hypotekou
 date: 2026-11-24
 description: Televize a telefon na splátky před Vánoci vám můžou vzít stovky tisíc z hypotéky. Spočítejte si, kolik, a co s tím udělat.
-perex: Před Vánoci je všechno „na splátky bez navýšení“. Jenže když na jaře chcete hypotéku, banka ty splátky uvidí. A z hypotéky vám uberou víc, než čekáte.
+perex: Před Vánoci je všechno „na splátky bez navýšení“. Jenže když na jaře chcete hypotéku, banka ty splátky uvidí. A z hypotéky vám ubere víc, než čekáte.
 kategorie: Jak to v bance chodí
 ---
 

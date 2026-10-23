@@ -49,7 +49,7 @@ Jak potom chodí peníze:
 - Po každé etapě bance doložíte, kolik je postaveno. U některých bank stačí poslat fotky přes aplikaci. Jinde se na stavbu přijede podívat odhadce. Za kontrolu si banka může účtovat poplatek.
 - Peníze pak bývají na účtu obvykle do několika dnů.
 - Faktury většina bank nechce. Dívá se na to, co stojí. Faktury za drahé věci, jako jsou okna nebo stropy, si ale schovejte. Budete je potřebovat při reklamaci.
-- Na vyčerpání peněz máte omezenou dobu, u staveb nejčastěji kolem dvou let. Když se stavba zdrží, dá se lhůta většinou prodloužit, často za poplatek.
+- Na vyčerpání peněz máte omezenou dobu. U běžné koupě je to většinou zhruba rok, u staveb bývá lhůta delší, podle banky. Když se stavba zdrží, dá se lhůta většinou prodloužit, často za poplatek.
 - Nemusíte vyčerpat úplně všechno. Většina bank chce aspoň 80 % schválené částky. Když vyčerpáte méně, může vás čekat poplatek.
 - Fixace, tedy doba, po kterou máte zaručenou sazbu, obvykle běží od podpisu smlouvy. Ne od prvních peněz.
 
