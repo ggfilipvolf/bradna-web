@@ -13,7 +13,9 @@ Většinou nečeká. Když víte dopředu, co připravit, zvládnete to za pár 
 
 Přesný seznam se u každé banky trochu liší. Tohle je základ, se kterým počítat.
 
-## Hromádka 1: Vy
+## Čtyři hromádky papírů
+
+### Hromádka 1: Vy
 
 - Občanský průkaz.
 - Druhý doklad, třeba řidičák nebo pas.
@@ -21,24 +23,22 @@ Přesný seznam se u každé banky trochu liší. Tohle je základ, se kterým p
 
 To je celé. Jestli nemáte jinde dluhy, si banka zjistí sama. To dokládat nemusíte.
 
-## Hromádka 2: Váš příjem
+### Hromádka 2: Váš příjem
 
-### Když jste zaměstnanec
+**Když jste zaměstnanec:**
 
 - **Potvrzení o příjmu.** Vyplní ho zaměstnavatel na formuláři banky. Většina bank v něm chce průměr za posledních 12 měsíců a za poslední 3.
 - **Výpisy z účtu,** na který vám chodí výplata. Obvykle za poslední 3 měsíce, někde 6.
 
-### Když podnikáte
+**Když podnikáte:**
 
 - **Daňové přiznání** za poslední rok, u některých bank za dva. A doklad, že jste ho podali a daň zaplatili.
 - **Výpisy z podnikatelského účtu.** Některé banky je chtějí jen pro kontrolu, jiné z nich počítají příjem.
 - Pokud jste na paušální dani, banka bude chtít hlavně výpisy a doklad o vstupu do paušálního režimu.
 
-### Další příjmy
+**Další příjmy:** Pokud máte nájem, rodičovskou nebo výživné, připravte si smlouvy nebo rozhodnutí a výpisy, kde je vidět, že vám peníze chodí.
 
-Pokud máte nájem, rodičovskou nebo výživné, připravte si smlouvy nebo rozhodnutí a výpisy, kde je vidět, že vám peníze chodí.
-
-## Hromádka 3: Co kupujete
+### Hromádka 3: Co kupujete
 
 - **Rezervační smlouva** nebo návrh kupní smlouvy.
 - **Výpis z katastru.** Seženete ho online, často ho obstará realitka.
@@ -46,7 +46,7 @@ Pokud máte nájem, rodičovskou nebo výživné, připravte si smlouvy nebo roz
 
 Odhad nemovitosti si objednává banka. Sami ho většinou připravovat nemusíte.
 
-## Hromádka 4: Jen když převádíte hypotéku jinam
+### Hromádka 4: Jen když převádíte hypotéku jinam
 
 - Smlouva ke stávající hypotéce.
 - Vyčíslení, kolik ještě dlužíte. Vystaví ho vaše současná banka.

@@ -58,7 +58,7 @@ Pojďme to říct na čísle z výpočtu výše. Když platíte o 4 800 Kč měs
 
 Proto se nejdřív ptám: kdy přesně se byt převede? Je to napsané? A je v rodině byt, který by mohl na chvíli posloužit jako zástava? Podle odpovědí pak vybereme cestu.
 
-## Na co si dát pozor
+A ještě tři věci:
 
 - **Nespoléhejte na slib, že „se to brzy převede“.** Chtějte to mít písemně od družstva.
 - **Dvě banky na jednom bytě nechtějí.** Pokud rodiče ručí bytem, na kterém mají hypotéku u jiné banky, může se to zaseknout. Řešte to dopředu.

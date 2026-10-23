@@ -17,7 +17,7 @@ Tohle je nejjednodušší cesta. Banka počítá s tím, co vám čistého chod�
 
 Dvě věci, které ajťáky překvapí:
 
-**Strop nebývá plat, ale vlastní peníze.** Při čistém příjmu kolem 85 000 Kč a bez jiných půjček vychází podle příjmu hypotéka kolem 6 milionů, u vstřícnějších bank i víc. Jenže na byt potřebujete i vlastní peníze. Do 36 let aspoň 10 % hodnoty bytu, ve 36 a starší aspoň 20 %. U bytu za 6,5 milionu je to 650 tisíc, nebo 1,3 milionu.
+**Strop nebývá plat, ale vlastní peníze.** Při čistém příjmu kolem 85 000 Kč a bez jiných půjček vychází podle příjmu hypotéka klidně přes 6 milionů. Jenže na byt potřebujete i vlastní peníze. Do 36 let aspoň 10 % hodnoty bytu, ve 36 a starší aspoň 20 %. U bytu za 6,5 milionu je to 650 tisíc, nebo 1,3 milionu.
 
 **Bonusy banka vidí v průměru.** Většina bank se dívá na průměr příjmu za posledních 12 měsíců a za poslední 3. Roční bonus se tak do průměru rozpustí. Záleží i na tom, kdy přesně do banky jdete.
 
