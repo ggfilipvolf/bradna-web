@@ -19,7 +19,7 @@ U podnikatele, který začal před měsícem, neví nic. Nemá žádnou historii
 
 **Většina bank:** rok podnikání a jedno podané daňové přiznání.
 
-**Nejrychlejší cesta, kterou znám:** po šesti měsících podnikání vám některé banky spočítají příjem z výpisů z účtu za poslední tři měsíce. Umí to třeba ČSOB. Kratší dobu u žádné banky neznám. Často to ale chce splnit další podmínky, například aby vám peníze chodily hlavně od jedné nebo dvou firem.
+**Nejrychlejší cesta, kterou znám:** po šesti měsících podnikání vám některé banky spočítají příjem z výpisů z účtu za poslední tři měsíce. Umí to třeba ČSOB. Kratší dobu u žádné banky neznám. Často to ale má další podmínky, které se liší podle banky.
 
 **Pozor na jednu věc:** šest měsíců se počítá od založení živnosti. Ne od první faktury. Banku nezajímá, kdy jste poprvé fakturovali. Zajímá ji, kdy jste živnost založili.
 
@@ -38,12 +38,12 @@ Rok 2027 ale nebude celý rok podnikání. Přiznání je vždycky za celý kale
 
 Modelový příklad. Pár kolem třicítky chce letos kupovat byt. Ona je zaměstnaná a bere 32 000 Kč čistého. On v březnu odchází ze zaměstnání a zakládá živnost.
 
-Počítám modelově: banka pustí na splátky 55 % příjmu, úrok 5,5 %, splatnost 30 let.
+Počítám modelově: splátka do 40 % čistého příjmu (hranice, kterou doporučuje ČNB), úrok 5,5 %, splatnost 30 let, žádné jiné půjčky. Pro jednoduchost počítám, že banka vezme jeho zisk z přiznání celý. Ve skutečnosti si z něj může ještě něco ubrat.
 
-- **Na jaře a v létě 2027:** banka u něj zatím nemá z čeho počítat. Vidí jen její výplatu. Hypotéka zhruba **3,1 milionu**.
-- **Na jaře 2028, s prvním přiznáním:** řekněme, že mu za rok 2027 zbude 300 000 Kč. Banka vydělí dvanácti, vyjde 25 000 Kč měsíčně. Spolu s její výplatou je to 57 000 Kč. Hypotéka zhruba **5,5 milionu**.
+- **Na jaře a v létě 2027:** banka u něj zatím nemá z čeho počítat. Vidí jen její výplatu. Hypotéka zhruba **2,25 milionu**.
+- **Na jaře 2028, s prvním přiznáním:** řekněme, že mu za rok 2027 zbude 300 000 Kč. Banka vydělí dvanácti, vyjde 25 000 Kč měsíčně. Spolu s její výplatou je to 57 000 Kč. Hypotéka zhruba **4 miliony**.
 
-Rozdíl přes dva miliony. Jen podle toho, kdy přijdou do banky.
+Rozdíl skoro 1,8 milionu. Jen podle toho, kdy přijdou do banky.
 
 Co s tím? Buď kupují menší byt hned z jejího příjmu. Nebo rok počkají. Anebo on ještě chvíli zůstane v zaměstnání a podnikat začne, až budou mít hypotéku vyřešenou. Bance pak řeknou rovnou, že podnikání plánují. Je to vždycky něco za něco. Ale je lepší si vybrat dopředu, než to za vás rozhodne kalendář.
 
@@ -59,9 +59,9 @@ A celou tu dobu z ní platíte sociální a zdravotní pojištění. Je to jedna
 
 ### Úvěr na IČO na vlastní bydlení
 
-Úvěr pro podnikatele vypadá podobně jako hypotéka. Jenže úrok bývá zhruba o procento vyšší. Na každý milion je to kolem 640 Kč měsíčně navíc. U tří milionů skoro 2 000 Kč. Každý měsíc.
+Úvěr pro podnikatele vypadá podobně jako hypotéka. Jenže úrok bývá zhruba o procento vyšší. Na každý milion je to kolem 640 Kč měsíčně navíc (počítám 5,5 % proti 6,5 % na 30 let). U tří milionů skoro 2 000 Kč. Každý měsíc.
 
-Když budete chtít splatit dřív, u hypotéky zaplatíte nejvýš 1 % a maximálně 50 000 Kč. U podnikatelského úvěru to může být víc. A nechrání vás zákon, který chrání běžné lidi s úvěrem. Na vlastní bydlení je hypotéka nejlevnější peníze, které seženete.
+Když budete chtít splatit dřív, u hypotéky zaplatíte nejvýš 1 % a maximálně 50 000 Kč. U podnikatelského úvěru to může být klidně 3 až 5 %. A nechrání vás zákon, který chrání běžné lidi s úvěrem. Na vlastní bydlení je hypotéka nejlevnější peníze, které seženete.
 
 ### Odejít ze zaměstnání uprostřed vyřizování
 
@@ -69,7 +69,7 @@ Výpovědní lhůta pro banku znamená, že váš příjem brzy skončí. S tako
 
 ## Na co si dát pozor
 
-- **Živnost založte, až když opravdu začínáte.** Od založení platíte zálohy na sociální a zdravotní pojištění. Když je podnikání vaše hlavní práce, v roce 2027 minimálně 6 074 Kč a 3 488 Kč měsíčně. Za půl roku je to přes 57 000 Kč.
+- **Živnost založte, až když opravdu začínáte.** Od založení platíte zálohy na sociální a zdravotní pojištění. Když je podnikání vaše hlavní práce, v roce 2027 minimálně 6 074 Kč a 3 488 Kč měsíčně (podle portálu BusinessInfo.cz). Za půl roku je to přes 57 000 Kč.
 - **Zapište si správný obor.** Banky uznávají různým oborům různý díl příjmů. Co děláte, má sedět s tím, co máte na živnostenském listu.
 - **Fakturujte pravidelně, jak práce přichází.** Když vám přijde jedna velká faktura za půl roku, některé banky z výpisů neuvidí skoro nic.
 - **Sedněte si s účetní před prvním přiznáním.** Co v něm zbude, s tím bude banka počítat celý další rok.

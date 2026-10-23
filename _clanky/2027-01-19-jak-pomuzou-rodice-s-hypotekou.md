@@ -1,8 +1,8 @@
 ---
-title: Jak vám můžou rodiče pomoct s hypotékou, i když nemají peníze
+title: Jak pomůžou rodiče s hypotékou, i když nemají peníze
 slug: jak-pomuzou-rodice-s-hypotekou
 date: 2027-01-19
-description: Rodiče vám můžou s hypotékou pomoct svým bytem jako zástavou, i bez peněz. Jak to funguje, na co si dát pozor a jak je ze zástavy časem vyvázat.
+description: Rodiče vám můžou s hypotékou pomoct svým bytem jako zástavou. Jak to funguje, na co si dát pozor a jak je ze zástavy vyvázat.
 perex: Nejčastější pomoc od rodičů nejsou peníze, ale jejich byt. Banka si ho vezme jako další jistotu a vám pak stačí méně vlastních peněz. Vysvětlím, jak to funguje a jak to udělat, aby rodiče nic zbytečně neriskovali.
 kategorie: Rodina a rodiče
 ---
@@ -13,7 +13,7 @@ Mladí lidé mají často slušný příjem, ale málo našetřeno. Rodiče zase
 
 Banka vám nikdy nepůjčí na celý byt. Do 36 let nejvýš 90 % jeho hodnoty, jinak 80 %. Zbytek musíte mít svůj.
 
-Rodiče ale můžou nabídnout bance ještě svůj byt jako zástavu. Zástava znamená, že si banka na byt zapíše do katastru, že ho v nejhorším případě může prodat, pokud byste nesplácel. Hodnoty obou bytů se pak sečtou. A protože je pak banka jištěná mnohem víc, můžete potřebovat méně vlastních peněz, někdy skoro žádné.
+Rodiče ale můžou nabídnout bance ještě svůj byt jako zástavu. Zástava znamená, že si banka na byt zapíše do katastru, že ho v nejhorším případě může prodat, pokud byste nespláceli. Hodnoty obou bytů se pak sečtou. A protože je pak banka jištěná mnohem víc, můžete potřebovat méně vlastních peněz, někdy skoro žádné.
 
 Rodiče přitom nic nesplácejí. Hypotéka je vaše. Jejich byt jen leží v pozadí jako jistota.
 

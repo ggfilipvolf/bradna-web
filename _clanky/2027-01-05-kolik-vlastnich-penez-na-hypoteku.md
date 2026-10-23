@@ -52,7 +52,7 @@ Funguje to ale i obráceně. Když odhad vyjde stejně nebo výš než cena, pot
 
 ## Strop často není v platu, ale v úsporách
 
-Na schůzkách se pořád opakuje stejná situace. Lidé mají slušný příjem. Podle něj by jim banka půjčila klidně čtyři miliony. Jenže mají našetřeno 250 000 Kč. A při 10 % vlastních peněz si pak můžou koupit byt nanejvýš za 2,5 milionu.
+Příklad: podle příjmu by vám banka půjčila klidně čtyři miliony, jenže s úsporami 250 000 Kč a 10 % vlastních peněz vyjde byt nanejvýš za 2,5 milionu.
 
 Strop tedy není v tom, kolik vyděláváte. Strop je v tom, kolik máte svého. Proto se vyplatí počítat oboje zároveň. Jak spočítat tu druhou půlku, tedy kolik vám banka půjčí podle příjmu, popisuji v článku Kolik mi banka půjčí na hypotéku.
 

@@ -11,7 +11,7 @@ Chcete opravit byt nebo dům. Nová koupelna, okna, zateplení. A potřebujete n
 
 ## Dvě cesty, jednoduše
 
-**Hypotéka** je úvěr, za který ručíte nemovitostí. Té se říká zástava. Kdybyste nesplácel, banka ji může prodat. Díky tomu je hypotéka nejlevnější peníze, jaké na bydlení seženete. A splácet ji můžete až 30 let.
+**Hypotéka** je úvěr, za který ručíte nemovitostí. Té se říká zástava. Kdybyste nesplácel, banka ji může prodat. Díky tomu je hypotéka nejlevnější peníze, jaké na bydlení seženete. A splácet ji můžete obvykle až 30 let.
 
 **Úvěr ze stavebního spoření** (lidově „stavebko“) jde menší částky dát i bez zástavy. Zhruba do 2,5 milionu korun. U úsporných oprav, jako je zateplení nebo nová okna, i o něco víc. Bývá ale zhruba o procento dražší než hypotéka a splácí se kratší dobu, většinou 20 až 25 let.
 
@@ -57,7 +57,7 @@ Proto neexistuje jedna správná odpověď. Záleží na tom, kolik potřebujete
 
 ### Starší byt s opravou
 
-Druhý příklad. Kupujete starší byt za 3,5 milionu a do opravy chcete dát dalších 800 000 Kč.
+Druhý příklad. Je vám přes 36 let, takže banka půjčí nejvýš 80 % hodnoty. Kupujete starší byt za 3,5 milionu a do opravy chcete dát dalších 800 000 Kč.
 
 Když banka počítá jen z kupní ceny, půjčí 80 %. To je 2,8 milionu. Opravu byste celou platil ze svého. Dohromady 1,5 milionu z vlastní kapsy.
 

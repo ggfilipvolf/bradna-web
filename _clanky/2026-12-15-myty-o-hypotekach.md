@@ -64,7 +64,7 @@ Většině bank dnes stačí jeden celý rok podnikání a jedno daňové přizn
 
 A některé banky umí ještě rychleji. Po šesti měsících podnikání vám některé spočítají příjem z výpisů z účtu za poslední tři měsíce. Šest měsíců se počítá od založení živnosti, ne od první faktury.
 
-Jedna věc ale platí. Přiznání má u banky „trvanlivost“ zhruba 15 měsíců. Takže na jaře většina bank ještě vezme to loňské, později už chce nové.
+Jedna věc ale platí. Přiznání má u banky „trvanlivost“ zhruba 15 měsíců od konce roku, za který je. Takže do konce března vám většina bank ještě vezme přiznání za předloňský rok, potom už chce nové. Některé banky ho chtějí dřív.
 
 ### Mýtus 6: Peníze z hypotéky mi přijdou na účet
 
@@ -78,7 +78,7 @@ A ještě jedna uklidňující věc. Celou schválenou částku čerpat nemusít
 
 Nemusí. Rodiče vám můžou pomoct tím, že svůj byt nebo dům dají bance do zástavy. Byt pořád patří jim. Dál v něm bydlí. Jen bance slouží jako záruka.
 
-Díky tomu můžete dostat hypotéku i na celou cenu bytu, i když nemáte našetřeno.
+Díky tomu můžete potřebovat mnohem méně vlastních peněz, někdy skoro žádné.
 
 A zástava na bytě rodičů tam nemusí zůstat napořád. Po pár letech splácení, když byty mezitím zdraží a kus dluhu splatíte, si můžete nechat udělat nový odhad. Když vyjde, banka zástavu z bytu rodičů sundá.
 

@@ -23,9 +23,9 @@ Proto na něj klasickou hypotéku sám o sobě nedostanete. Musíte to vyřešit
 
 **1. Zástava jiné nemovitosti.** Bance dáte jako jistotu jiný byt nebo dům. Třeba svůj, nebo rodičů, pokud souhlasí. Pak dostanete normální hypotéku s normální sazbou. Až se družstevní byt převede do vašeho vlastnictví, dá se zástava přehodit na něj a byt rodičů se uvolní.
 
-**2. Úvěr, který počká na převod.** Některé banky půjčí na družstevní byt bez zástavy, pokud družstvo plánuje převést byty do osobního vlastnictví. Až k převodu dojde, změní se úvěr na klasickou hypotéku. Do té doby je ale dražší. Převod musí proběhnout v termínu. Z praxe většinou do roka, u některých bank do dvou let. Jinak hrozí sankce.
+**2. Úvěr, který počká na převod.** Některé banky půjčí na družstevní byt bez zástavy, pokud družstvo plánuje převést byty do osobního vlastnictví. Až k převodu dojde, změní se úvěr na klasickou hypotéku. Do té doby je ale dražší. Převod musí proběhnout v termínu, který si banka určí, z praxe většinou do roka. Když se nestihne, banka může úvěr zdražit.
 
-**3. Úvěr ze stavebního spoření.** Do zhruba 2,5 milionu ho dostanete bez zástavy. Je ale zhruba o procento dražší než hypotéka a splácí se kratší dobu, obvykle 20 až 25 let.
+**3. Úvěr ze stavebního spoření.** Do zhruba 2,5 milionu jde i bez zástavy. Je ale zhruba o procento dražší než hypotéka a splácí se kratší dobu, obvykle 20 až 25 let.
 
 ## Pojďme to spočítat
 

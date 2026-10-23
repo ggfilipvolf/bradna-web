@@ -62,7 +62,7 @@ Pro banku jste s paušální daní tak trochu záhada. Některé banky s ní um�
 
 Pokud plánujete hypotéku, zvažte, jestli z paušální daně na rok nevystoupit a nepodat normální přiznání. Zaplatíte nejspíš víc na daních. Ale budete vybírat z většiny bank. Nechte si spočítat obojí. O paušální dani na příští rok se rozhoduje vždy na jeho začátku. Pro rok 2027 je termín 11. ledna 2027.
 
-Co z toho plyne: posílejte všechny platby od zákazníků na jeden podnikatelský účet. Banka uzná jen to, co na účtu vidí a co jde doložit fakturou.
+Co z toho plyne: posílejte všechny platby od zákazníků na jeden podnikatelský účet. Většina bank uzná jen to, co na účtu vidí a co jde doložit fakturou.
 
 ## Nárazové faktury
 
@@ -76,7 +76,7 @@ Viděl jsem to u klienta, který měl za rok kolem 2 milionů, ale v jedné fakt
 
 Na schůzkách to slyším často. „Vezmu si úvěr na IČO a koupím si za něj byt.“ Na vlastní bydlení to nedoporučuji. Na bydlení slouží hypotéka na vás jako na člověka. A rozdíl je velký:
 
-- **Je dražší.** Úrok bývá zhruba o procento vyšší. Na každý milion je to kolem 600 Kč měsíčně navíc. U 4 milionů zhruba 2 500 Kč měsíčně.
+- **Je dražší.** Úrok bývá zhruba o procento vyšší. Na každý milion je to kolem 640 Kč měsíčně navíc (počítám s 6,5 % místo 5,5 % na 30 let). U 4 milionů skoro 2 600 Kč měsíčně.
 - **Dražší předčasné splacení.** U podnikatelského úvěru můžete zaplatit 3 až 5 % ze splacené částky. U hypotéky je to nejvýš 1 % a maximálně 50 000 Kč.
 - **Menší ochrana.** Podnikatelský úvěr nechrání zákon, který chrání běžné lidi s hypotékou a půjčkami.
 

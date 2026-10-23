@@ -1,5 +1,5 @@
 ---
-title: Přidali vám nebo dostanete 13. plat? Jak s tím počítá banka
+title: Přidání nebo 13. plat: kdy s nimi banka počítá u hypotéky
 slug: pridani-13-plat-hypoteka
 date: 2026-11-17
 description: Přidali vám v práci, nebo čekáte 13. plat? Spočítejte si, kdy se přidání projeví v tom, kolik vám banka půjčí na hypotéku.
@@ -34,9 +34,9 @@ Takhle se přidání propisuje do ročního průměru:
 
 V hypotéce to dělá zhruba tohle: po třech měsících asi o 100 000 Kč víc, po půl roce asi o 200 000 Kč víc, po roce asi o 400 000 Kč víc.
 
-V tříměsíčním průměru je to rychlejší. Tam je nový plat celý už po třech měsících. Která z obou čísel banka použije, se liší banka od banky.
+V tříměsíčním průměru je to rychlejší. Tam je nový plat celý už po třech měsících. Se kterým z obou čísel banka počítá, se liší banka od banky.
 
-A 13. plat? Když ho banka uzná, rozpočítá ho do celého roku. 36 000 Kč děleno dvanácti jsou 3 000 Kč měsíčně navíc. To je zhruba dalších 300 000 Kč hypotéky.
+A 13. plat? Když ho banka uzná, rozpočítá ho do celého roku. 40 000 Kč děleno dvanácti je zhruba 3 300 Kč měsíčně navíc. To je zhruba dalších 330 000 Kč hypotéky.
 
 Všechno jsou to orientační čísla. Záleží na bance a na tom, co už splácíte.
 

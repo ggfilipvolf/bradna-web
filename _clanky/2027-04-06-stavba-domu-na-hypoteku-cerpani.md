@@ -28,7 +28,7 @@ Banku si vyberte dobře hned na začátku. Na jedné nemovitosti nechtějí bank
 
 Na schůzkách často slyším plán: „Pozemek koupíme teď na hypotéku a za rok si ji navýšíme na stavbu.“ Jde to, ale počítejte s tím, že vás banka na stavbu posoudí znovu. S pravidly a sazbou, které budou platit tehdy. Mezi koupí pozemku a začátkem stavby často uteče rok i víc. Když to jde, řešte pozemek i stavbu rovnou jednou hypotékou.
 
-A ještě jedna věc u pozemku. Ověřte si, že k němu vede normální cesta. Pozemek, ke kterému se jezdí přes louku souseda, banka do zástavy nevezme.
+A ještě jedna věc u pozemku. Ověřte si, že k němu vede normální cesta. Pozemek, ke kterému se jezdí přes louku souseda bez zapsaného práva přejezdu, banky do zástavy většinou nevezmou.
 
 ## Kolik vám banka půjčí
 
@@ -49,7 +49,7 @@ Jak potom chodí peníze:
 - Po každé etapě bance doložíte, kolik je postaveno. U některých bank stačí poslat fotky přes aplikaci. Jinde se na stavbu přijede podívat odhadce. Za kontrolu si banka může účtovat poplatek.
 - Peníze pak bývají na účtu obvykle do několika dnů.
 - Faktury většina bank nechce. Dívá se na to, co stojí. Faktury za drahé věci, jako jsou okna nebo stropy, si ale schovejte. Budete je potřebovat při reklamaci.
-- Na vyčerpání peněz máte omezenou dobu, nejčastěji kolem dvou let. Když se stavba zdrží, dá se to většinou s bankou domluvit.
+- Na vyčerpání peněz máte omezenou dobu, u staveb nejčastěji kolem dvou let. Když se stavba zdrží, dá se lhůta většinou prodloužit, často za poplatek.
 - Nemusíte vyčerpat úplně všechno. Většina bank chce aspoň 80 % schválené částky. Když vyčerpáte méně, může vás čekat poplatek.
 - Fixace, tedy doba, po kterou máte zaručenou sazbu, obvykle běží od podpisu smlouvy. Ne od prvních peněz.
 
@@ -64,7 +64,7 @@ Pozemek za 1,5 milionu. Dům podle rozpočtu za 5,5 milionu. Dohromady 7 milion�
 
 Počítám s modelovou sazbou 5,5 % a splatností 30 let.
 
-Během stavby neplatíte celou splátku. Platíte jen úrok z toho, co už jste si vyčerpal:
+Během stavby obvykle neplatíte celou splátku. Platíte jen úrok z toho, co už jste si vyčerpal:
 
 - vyčerpaný 1 milion: zhruba 4 600 Kč měsíčně
 - vyčerpaných 2,5 milionu: zhruba 11 500 Kč měsíčně
@@ -91,7 +91,7 @@ Záleží na bance. Některé ho chtějí už při žádosti, jiným stačí až
 
 ### Platím během stavby celou splátku?
 
-Ne. Dokud čerpáte, platíte jen úrok z peněz, které jste už dostal. Plná splátka začíná až po vyčerpání.
+Obvykle ne. Dokud čerpáte, platíte většinou jen úrok z peněz, které jste už dostal. Plná splátka začíná až po vyčerpání.
 
 ### Kolik vlastních peněz potřebuji na stavbu domu?
 

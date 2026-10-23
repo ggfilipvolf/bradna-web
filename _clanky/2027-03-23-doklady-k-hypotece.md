@@ -34,7 +34,7 @@ To je celé. Jestli nemáte jinde dluhy, si banka zjistí sama. To dokládat nem
 
 - **Daňové přiznání** za poslední rok, u některých bank za dva. A doklad, že jste ho podali a daň zaplatili.
 - **Výpisy z podnikatelského účtu.** Některé banky je chtějí jen pro kontrolu, jiné z nich počítají příjem.
-- Pokud jste na paušální dani, banka bude chtít hlavně výpisy a doklad o vstupu do paušálního režimu.
+- Pokud jste na paušální dani, banka bude chtít hlavně výpisy z účtu. Přesný seznam se liší podle banky.
 
 **Další příjmy:** Pokud máte nájem, rodičovskou nebo výživné, připravte si smlouvy nebo rozhodnutí a výpisy, kde je vidět, že vám peníze chodí.
 
@@ -53,21 +53,21 @@ Odhad nemovitosti si objednává banka. Sami ho většinou připravovat nemusít
 
 ## Pojďme to spočítat: kolik vás stojí vyřízení
 
-Lidé se často ptají, kolik je vyřízení hypotéky bude stát. Modelový příklad, ceny k říjnu 2026:
+Lidé se často ptají, kolik je vyřízení hypotéky bude stát. Modelový příklad podle mé praxe a poplatků katastru platných v roce 2026:
 
 - Odhad bytu: zhruba 5 000 Kč. U řady bank se dá vyjednat zdarma.
 - Poplatek za vyřízení: u řady bank se dá vyjednat nula.
-- Návrh na vklad do katastru: 2 000 Kč za vklad zástavy, další 2 000 Kč za vklad vlastnictví.
+- Návrh na vklad do katastru, tedy žádost, aby katastr zapsal změnu: 2 000 Kč za zápis zástavy, další 2 000 Kč za zápis vlastnictví.
 
-V nejhorším případě tedy kolem 9 000 Kč. Když se vyjedná nulový odhad, zbude 4 000 Kč za katastr. Když vám někdo řekne, že vyřízení stojí desítky tisíc, zeptejte se, za co.
+Když se poplatek za vyřízení vyjedná na nulu, vychází to kolem 9 000 Kč. Když se vyjedná i nulový odhad, zbude 4 000 Kč za katastr. Když vám někdo řekne, že vyřízení stojí desítky tisíc, zeptejte se, za co.
 
 ## Papír, na který skoro každý zapomene
 
-Některé banky chtějí před uvolněním peněz potvrzení, že nic nedlužíte. Hlavně od finančního úřadu, u podnikatelů často i od zdravotní pojišťovny a sociálky.
+Některé banky chtějí před uvolněním peněz potvrzení, že nic nedlužíte. Hlavně od finančního úřadu, u podnikatelů někdy i od zdravotní pojišťovny a správy sociálního zabezpečení.
 
 Žádá se o něj přes internet nebo datovou schránku, ale vystavení chvíli trvá. Vyřiďte si ho včas. Ať vám kvůli jednomu papíru nestojí celá hypotéka.
 
-A rovnou si zkontrolujte, jestli nikde nic nedlužíte. Daň z nemovitosti, pokuta, poplatek. Měl jsem klienta, kterému hypotéku zamítli kvůli pár stovkám daně, o kterých vůbec nevěděl. Dopis chodil na starou adresu a mezitím z toho byla exekuce. Dluh, o kterém víte, vyřešíte za pět minut. Dluh, o kterém nevíte, vám může shodit bydlení.
+A rovnou si zkontrolujte, jestli nikde nic nedlužíte. Daň z nemovitosti, pokuta, poplatek. I zapomenutých pár stovek se může změnit v exekuci, která hypotéku shodí. Dluh, o kterém víte, vyřešíte za pět minut. Dluh, o kterém nevíte, vám může shodit bydlení.
 
 ## Před podpisem a čerpáním
 

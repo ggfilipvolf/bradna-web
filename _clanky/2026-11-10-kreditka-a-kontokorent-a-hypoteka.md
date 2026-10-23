@@ -1,5 +1,5 @@
 ---
-title: Kreditka a kontokorent a hypotéka: proč vám ubírají z úvěru
+title: Kreditka, kontokorent a hypotéka: proč vám ubírají z úvěru
 slug: kreditka-a-kontokorent-a-hypoteka
 date: 2026-11-10
 description: Kreditní karta nebo kontokorent vám může ubrat statisíce z hypotéky, i když je vůbec nepoužíváte. Spočítejte si kolik a co s tím.
@@ -108,4 +108,4 @@ Pokud ji nepotřebujete, je to dobrý nápad. Udělejte to s předstihem a necht
 
 ### Vadí malý kontokorent?
 
-Malý limit, třeba 10 000 Kč, má na hypotéku obvykle zanedbatelný vliv. U vyšších limitů už je rozdíl znát.
+Malý limit, třeba 10 000 Kč, ubere obvykle jen desítky tisíc korun hypotéky. Když vám ale vychází těsně, i to může rozhodnout. U vyšších limitů je rozdíl znát vždycky.

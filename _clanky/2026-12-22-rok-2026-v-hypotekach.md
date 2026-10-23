@@ -9,7 +9,7 @@ kategorie: Trh a sazby
 
 Konec roku je dobrá chvíle se na chvíli zastavit. Rok 2026 nebyl pro lidi, kteří kupují bydlení, jednoduchý. Hypotéky zdražily, byty taky. Pojďme si projít, co se stalo, podle čísel. Předpovídat sazby nebudu. Nikdo to neumí. Řeknu vám ale, co z toho plyne pro vás.
 
-Čísla v článku jsou k říjnu 2026. Listopadový a prosincový Hypoindex doplníme, jakmile vyjdou.
+Čísla v článku jsou k říjnu 2026. Novější data v době psaní ještě nebyla k dispozici.
 
 ## Sazby: z minima na dvouleté maximum
 
@@ -45,7 +45,7 @@ A ještě rozdíl mezi fixacemi. U stejných 4 milionů na 30 let vychází při
 
 Podle Českého statistického úřadu byly byty a domy ve 2. čtvrtletí 2026 meziročně dražší o 8,6 %. Starší byty a domy zdražily dokonce o 10 %. Nové byty méně, o 3,5 %.
 
-Co to znamená v praxi? Starší byt, který loni stál 4,5 milionu, stojí dnes kolem 4,95 milionu. Když vám banka půjčí 80 %, potřebujete místo 900 000 Kč vlastních peněz zhruba 990 000 Kč. A hypotéka je vyšší o 360 000 Kč. Při říjnové sazbě 5,79 % to je asi o 2 100 Kč vyšší splátka každý měsíc.
+Co to znamená v praxi? Starší byt, který loni stál 4,5 milionu, stojí dnes kolem 4,95 milionu. Když vám banka půjčí 80 %, potřebujete místo 900 000 Kč vlastních peněz zhruba 990 000 Kč. A hypotéka je vyšší o 360 000 Kč. Při říjnové sazbě 5,79 % a splatnosti 30 let to je asi o 2 100 Kč vyšší splátka každý měsíc.
 
 Dražší peníze a dražší byty zároveň. To je kombinace, kterou lidé letos cítili nejvíc.
 
@@ -97,4 +97,4 @@ Jen pokud kupujete byt na pronájem, nebo pokud jde o vaši třetí a další ne
 
 Rok 2027 nebude o tom, jestli sazby klesnou o desetinku. Bude o tom, jestli si bydlení nastavíte tak, aby vás nepálilo. Napište mi, co řešíte. Spočítáme to spolu.
 
-*Zdroje dat: Swiss Life Hypoindex (březen–říjen 2026), Česká národní banka (měnová politika, doporučení pro hypotéky, odhady refixací), Český statistický úřad (ceny obydlí, 2. čtvrtletí 2026).*
+*Zdroje dat: Swiss Life Hypoindex (březen–říjen 2026), Česká národní banka (měnová politika, doporučení pro hypotéky, odhady konců fixací), Český statistický úřad (ceny obydlí, 2. čtvrtletí 2026).*

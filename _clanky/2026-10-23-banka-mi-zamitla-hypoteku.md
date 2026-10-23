@@ -25,7 +25,7 @@ Banky si zjišťují, jak jste v minulosti spláceli půjčky. Existují databá
 
 Často jde o věci, na které lidé dávno zapomněli. Mobilní tarif, který jste neplatili. Malá půjčka z doby studií. Nákup na splátky, kde jste jednu splátku přehlédli.
 
-Co s tím: zjistěte si, co o vás v těch databázích je. Výpis si můžete vyžádat sami. Pokud tam je stará chyba, je dobré ji umět vysvětlit a mít doloženo, že je dávno vyřešená.
+Co s tím: zjistěte si, co o vás v těch databázích je. Výpis si můžete vyžádat sami, souhrnný výpis vydávají například vybrané pobočky České pošty. Pokud tam je stará chyba, je dobré ji umět vysvětlit a mít doloženo, že je dávno vyřešená.
 
 ### Malé půjčky a nákupy na splátky
 
@@ -39,7 +39,7 @@ Pořadí je důležité. Nejdřív narovnat půjčky, pak teprve žádat o hypot
 
 ### Dluh na daních nebo pojištění
 
-Nedoplatek na finančním úřadě, sociálním nebo zdravotním pojištění je pro banku stopka. Týká se to hlavně podnikatelů, ale i zaměstnanců, kteří mají například vedlejší příjem.
+Nedoplatek na finančním úřadě, sociálním nebo zdravotním pojištění je pro většinu bank stopka. Týká se to hlavně podnikatelů, ale i zaměstnanců, kteří mají například vedlejší příjem.
 
 Některé banky koukají i na drobné dluhy u úřadů. Zapomenutá daň z nemovitosti za pár set korun se může změnit v exekuci. A exekuce hypotéku shodí, i když jde o maličkost.
 
@@ -75,7 +75,7 @@ Počítám s modelovou sazbou 5,5 %. Splátka 3,9 milionu na 25 let by vyšla zh
 
 Co se dá udělat:
 
-1. **Doplatit telefon.** Splátka 1 500 Kč zmizela. To samo o sobě uvolnilo zhruba 260 000 Kč hypotéky.
+1. **Doplatit telefon.** Splátka 1 500 Kč zmizela. Podle pravidla výše to samo o sobě uvolní zhruba 270 000 Kč hypotéky.
 2. **Prodloužit splatnost na 30 let.** Splátka se tím sníží.
 3. **Přidat část úspor**, aby stačila hypotéka 3,7 milionu.
 

@@ -67,7 +67,7 @@ Dluh, o kterém víte, vyřešíte za pět minut. Dluh, o kterém nevíte, vám 
 - pokuty a poplatky (odpady, dopravní přestupky),
 - pojištění a zálohy, pokud podnikáte.
 
-Přehled o svých půjčkách si můžete ověřit výpisem z úvěrových registrů. Dá se o něj požádat na poště na přepážce Czech POINT. A některé banky chtějí před čerpáním peněz potvrzení od finančního úřadu, že nic nedlužíte. Vyřiďte si ho včas.
+Přehled o svých půjčkách si můžete ověřit výpisem z databází, kam banky a další věřitelé zapisují, co komu půjčili a jak to splácí. Souhrnný výpis vydávají například vybrané pobočky České pošty. A některé banky chtějí před čerpáním peněz potvrzení od finančního úřadu, že nic nedlužíte. Vyřiďte si ho včas.
 
 ## Krok 5: Zkontrolujte pracovní smlouvu
 

@@ -26,13 +26,13 @@ Mimochodem, když reklama uvádí sazbu, musí obsahovat i takzvaný reprezentat
 Pravidla má každá banka trochu jiná. Tyhle věci ale rozhodují skoro všude:
 
 - **Kolik vlastních peněz máte.** Když si půjčujete víc než 80 % hodnoty bytu, bývá sazba vyšší.
-- **Délka fixace.** Fixace je doba, po kterou máte sazbu pevnou. Teď jsou kratší fixace levnější než delší.
-- **Pojištění.** Když si k hypotéce vezmete pojištění od banky, sazba často klesne. Když ho nechcete, často vzroste.
+- **Délka fixace.** Fixace je doba, po kterou máte sazbu pevnou. V říjnu 2026 byly podle Swiss Life Hypoindexu kratší fixace levnější než delší.
+- **Pojištění.** Když si k hypotéce vezmete pojištění od banky, sazba často klesne. Když ho nechcete, některé banky sazbu o kousek zvednou.
 - **Kam vám chodí výplata.** Některé banky dávají slevu, když u nich máte účet a chodí vám na něj příjem.
-- **Energetická třída domu nebo bytu.** Úsporné bydlení má u některých bank lepší podmínky. Třeba Komerční banka u hypotéky na udržitelné bydlení chce doložit energetický štítek ve třídě A nebo B.
+- **Energetická třída domu nebo bytu.** Úsporné bydlení má u některých bank lepší podmínky. Třeba Komerční banka u hypotéky na udržitelné bydlení podmiňuje výhodnější sazbu energetickým štítkem ve třídě A nebo B (podle webu banky, říjen 2026).
 - **Váš příjem a co už splácíte.** Kdo je pro banku jistější, dostane lepší cenu.
 
-## Jak to vypadá v číslech teď
+## Jak to vypadalo v číslech v říjnu 2026
 
 Abyste měli představu, jak velké ty rozdíly jsou. V říjnu 2026 byla průměrná nabízená sazba hypoték podle Swiss Life Hypoindexu 5,79 %. Je to průměr nabídek bank, ne sazba konkrétního člověka.
 
@@ -64,7 +64,7 @@ Hypotéku si berete na třicet let. Sazba se vám za tu dobu změní ještě mno
 
 O dvě desetiny lepší start vám nepomůže, když vás pak banka dvacet let drží v kleštích. Banka je parťák na dlouhou dobu.
 
-A ještě jedna věc z praxe. Když obejdete tři poradce kvůli lepší sazbě u stejné banky, většinou to nepomůže. U většiny bank se po první žádosti sazba pro vás „zasekne“ a další poradce ji už nepodstřelí. Lepší je vybrat si jednoho člověka, kterému věříte, a nechat ho jednat za vás.
+A ještě jedna věc z praxe. Když obejdete tři poradce kvůli lepší sazbě u stejné banky, většinou to nepomůže. U řady bank se po první žádosti sazba pro vás „zasekne“ a další poradce ji už nepodstřelí. Lepší je vybrat si jednoho člověka, kterému věříte, a nechat ho jednat za vás.
 
 ## Na co si dát pozor
 
@@ -86,6 +86,6 @@ To nikdo poctivý neřekne z hlavy. Záleží na vaší situaci a na bance. Dá 
 
 ### Vyplatí se jít za více poradci kvůli lepší sazbě?
 
-U stejné banky většinou ne. První žádost sazbu obvykle zafixuje. Lepší je jeden člověk, který porovná víc bank najednou.
+U stejné banky většinou ne. U řady bank první žádost sazbu pro vás „zasekne“. Lepší je jeden člověk, který porovná víc bank najednou.
 
 Chcete vědět, jakou sazbu byste dostali vy, a ne jakou slibuje reklama? Napište mi. Spočítáme to na vašich číslech. Nic vás to nestojí, mě platí banka.

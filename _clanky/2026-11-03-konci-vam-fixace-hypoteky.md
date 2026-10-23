@@ -1,9 +1,9 @@
 ---
-title: Končí vám fixace hypotéky? Co udělat 3 měsíce předem
+title: Končí vám fixace hypotéky? Co udělat pár měsíců předem
 slug: konci-vam-fixace-hypoteky
 date: 2026-11-03
 description: Končí vám fixace hypotéky? Co udělat několik měsíců předem, jak vyjednat lepší sazbu u své banky a kdy se vyplatí přejít jinam.
-perex: Fixace končí letos a příští rok statisícům lidí. Kdo začne včas, může ušetřit desítky tisíc. Kdo čeká na dopis z banky, často přijde o možnost vybrat si.
+perex: Letos i příští rok končí fixace hypotékám za stovky miliard korun. Kdo začne včas, může ušetřit desítky tisíc. Kdo čeká na dopis z banky, často přijde o možnost vybrat si.
 kategorie: Konec fixace
 ---
 
@@ -11,7 +11,7 @@ Fixace je doba, po kterou máte u hypotéky pevně danou sazbu. Typicky tři, p�
 
 ## Proč je to teď tak velké téma
 
-Spousta lidí si hypotéku sjednávala v letech, kdy byly sazby velmi nízké. Podle odhadu České národní banky letos končí fixace hypotékám za zhruba 470 miliard korun. Původně byly v průměru sjednané kolem 3,2 %. Splátka se dotčeným lidem zvýší v průměru zhruba o 1 900 Kč měsíčně.
+Spousta lidí si hypotéku sjednávala v letech, kdy byly sazby velmi nízké. Podle odhadu České národní banky končí v roce 2026 fixace hypotékám za zhruba 470 miliard korun. Původně byly v průměru sjednané kolem 3,2 %. Splátka se dotčeným lidem zvýší v průměru zhruba o 1 900 Kč měsíčně.
 
 A nekončí to letos. V roce 2027 jde o zhruba 530 miliard, v roce 2028 o nejméně 600 miliard. Tam ale byly původní sazby vyšší, kolem 4,3 %, takže skok bude menší.
 
@@ -37,7 +37,7 @@ Počítám s modelovými sazbami. Vaše skutečná nabídka bude jiná podle ban
 
 **1. Zjistěte si přesné datum konce fixace.** Najdete ho ve smlouvě nebo v internetovém bankovnictví. Lidé se v něm překvapivě často spletou o pár měsíců.
 
-**2. Nečekejte na dopis z banky.** Banka vám nabídku nové sazby pošle sama, ale často jen pár týdnů před koncem. Pak už nemáte čas srovnávat.
+**2. Nečekejte na dopis z banky.** U běžné hypotéky vám banka musí novou sazbu oznámit nejpozději tři měsíce před koncem fixace. Když začnete srovnávat až pak, nemáte na to moc času.
 
 **3. Zeptejte se své banky dřív.** Řekněte jim, že vám končí fixace a že se díváte i jinam. Banky budou letos a příští rok o lidi s končící fixací soupeřit. Vaše banka vás nechce ztratit.
 
@@ -45,7 +45,7 @@ Počítám s modelovými sazbami. Vaše skutečná nabídka bude jiná podle ban
 
 **5. Porovnávejte celkové náklady, ne jen sazbu.** Nízká sazba může být podmíněná pojištěním nebo dalšími produkty. Sledujte, kolik vás hypotéka bude stát celkem.
 
-**6. Nenechte se tlačit.** Na schůzkách často slyším: „Banka mi volala, že sazby porostou, ať podepíšu do pátku.“ Klid. Zvýšení o 0,2 až 0,3 procentního bodu dělá u hypotéky 3 miliony na 30 let zhruba 400 až 570 Kč měsíčně. Není to zanedbatelné, ale není to důvod podepsat něco, co jste si nepřečetli a neporovnali.
+**6. Nenechte se tlačit.** Na schůzkách často slyším: „Banka mi volala, že sazby porostou, ať podepíšu do pátku.“ Klid. Zvýšení o 0,2 až 0,3 procentního bodu dělá u hypotéky 3 miliony na 30 let zhruba 380 až 570 Kč měsíčně. Není to zanedbatelné, ale není to důvod podepsat něco, co jste si nepřečetli a neporovnali.
 
 ## Zůstat, nebo přejít jinam?
 
@@ -63,7 +63,7 @@ Na konci fixace můžete zdarma splatit jakoukoliv část hypotéky, klidně cel
 
 Než to uděláte, položte si jednu otázku. Umíte s těmi penězi jinde vydělat víc, než kolik platíte na úroku? Pokud ne, splacení dává smysl. A vždycky si nechte rezervu aspoň na pár splátek. Stát se může cokoliv, kdykoliv, komukoliv.
 
-Mimo konec fixace můžete jednou ročně k výročí smlouvy splatit zdarma až 25 % dluhu. Bance to obvykle musíte oznámit předem, zhruba dva měsíce.
+Mimo konec fixace můžete jednou ročně k výročí smlouvy splatit zdarma až 25 % z výše úvěru. Jak a kdy to bance oznámit, má každá banka trochu jinak. Počítejte zhruba se dvěma měsíci předem.
 
 Pokud byste chtěli banku změnit uprostřed fixace, banka si může říct o poplatek. Ten je maximálně 1 % ze splacené částky a nejvýš 50 000 Kč. Čím méně z fixace zbývá, tím bývá menší. Přesnou částku vám banka vyčíslí k jakémukoliv datu, obvykle do deseti dnů. Proto se vyplatí řešit velké změny hlavně na konci fixace.
 

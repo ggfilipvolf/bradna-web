@@ -1,5 +1,5 @@
 ---
-title: Jak si říct své bance o nižší sazbu hypotéky (i během fixace)
+title: Jak si říct bance o nižší sazbu hypotéky i během fixace
 slug: jak-si-rict-bance-o-nizsi-sazbu
 date: 2026-12-08
 description: Máte drahou hypotéku z doby vysokých sazeb? O nižší sazbu si můžete říct své bance i uprostřed fixace. Jak na to a kolik to dělá.
@@ -15,7 +15,7 @@ Fixace je doba, po kterou máte sazbu pevnou. Banka vám ji během ní sama od s
 
 Banka vás nechce ztratit. Získat nového klienta ji stojí víc peněz než udržet toho, kterého už má.
 
-A vy z banky můžete odejít i během fixace. Když hypotéku převedete jinam nebo ji splatíte, banka si může účtovat poplatek. Zákon ho ale omezuje. Nejvýš 1 % z předčasně splacené částky a nikdy víc než 50 000 Kč. Navíc smí chtít jen to, co ji odchod opravdu stál. Čím kratší zbývá fixace, tím bývá poplatek menší.
+A vy z banky můžete odejít i během fixace. Když hypotéku převedete jinam nebo ji splatíte, banka si může účtovat poplatek. Zákon ho ale omezuje. Nejvýš 1 % z předčasně splacené částky a nejvýš 50 000 Kč. Navíc smí chtít jen to, co ji odchod opravdu stál. Čím kratší zbývá fixace, tím bývá poplatek menší.
 
 Na konci fixace můžete odejít úplně zdarma.
 
@@ -27,7 +27,7 @@ Na rovinu: nejde o žádné vaše právo. Je to jednání. Banka může říct a
 
 Z praxe vím, že velké banky na takovou žádost reagují často. Menší banky to většinou nedělají. A záleží i na tom, jak se sazby mezitím pohnuly. Když jste sjednávali za 6 % a dnes banky nabízejí nižší sazby, máte dobrý důvod se ptát. Když jsou dnešní sazby vyšší než ta vaše, nemá smysl to zkoušet.
 
-Pro představu: na konci roku 2023 byla průměrná nabízená sazba hypoték podle Swiss Life Hypoindexu kolem 6 %. V říjnu 2026 to bylo 5,79 %. Hlavně u kratších fixací se dnes dají najít i nižší nabídky. Sazby se ale mění každý měsíc, takže si to ověřte v době, kdy to řešíte.
+Pro představu: na konci roku 2023 byla průměrná nabízená sazba hypoték podle Swiss Life Hypoindexu kolem 6 % (v prosinci 2023 to bylo 6,02 %). V říjnu 2026 to bylo 5,79 %. Hlavně u kratších fixací šly v říjnu 2026 najít i nižší nabídky. Sazby se ale mění každý měsíc, takže si to ověřte v době, kdy to řešíte.
 
 ## Pojďme to spočítat
 
@@ -49,7 +49,7 @@ Za jeden e-mail nebo telefonát to není špatné.
 
 **4. Nechte si vyčíslit poplatek za odchod.** O vyčíslení si můžete říct k jakémukoli datu. Banka ho obvykle pošle zhruba do deseti dnů. Je dobré vědět, kolik by vás odchod stál, než začnete jednat.
 
-**5. Porovnejte nabídku.** Když banka sazbu sníží, podívejte se i na podmínky. Někdy chce podepsat dodatek ke smlouvě. Někdy se tím fixace začne počítat znovu. Ověřte si, na jak dlouho nová sazba platí.
+**5. Porovnejte nabídku.** Když banka sazbu sníží, podívejte se i na podmínky. Někdy chce podepsat dodatek ke smlouvě. Ověřte si, na jak dlouho nová sazba platí a jestli se tím nemění konec vaší fixace.
 
 **6. Rozhodněte se v klidu.** Když banka nevyhoví a jinde je to výrazně levnější, spočítejte, jestli se odchod vyplatí i s poplatkem. Když je rozdíl jen pár desetin, často je lepší počkat na konec fixace.
 
@@ -58,7 +58,7 @@ Za jeden e-mail nebo telefonát to není špatné.
 - **Neměňte banku kvůli desetině.** Odchod něco stojí: odhad, katastr, čas. Vyplatí se, když je rozdíl opravdu znát.
 - **Rezerva má přednost.** Kdo měl v minulosti problém se splácením nebo žádal o odklad splátek, má u jednání horší pozici. Banka si to pamatuje. I proto doporučuji mít rezervu aspoň na pár splátek.
 - **Nebojte se zeptat znovu.** Když vám dnes banka řekne ne, za rok může být situace jiná.
-- **Máte našetřeno navíc?** Jednou ročně k výročí smlouvy můžete splatit až čtvrtinu dluhu zdarma. I to splátku sníží. Jen si vždycky nechte rezervu.
+- **Máte našetřeno navíc?** Jednou ročně k výročí smlouvy můžete splatit zdarma až 25 % z výše úvěru. I to splátku sníží. Jen si vždycky nechte rezervu.
 - **Pohlídejte si konec fixace.** I když se teď nepovede nic, pár měsíců před koncem fixace se srovnání vyplatí určitě.
 - **Až budete vybírat další hypotéku,** dívejte se i na to, jak se s bankou dá jednat během splácení. Ne jen na dnešní sazbu.
 

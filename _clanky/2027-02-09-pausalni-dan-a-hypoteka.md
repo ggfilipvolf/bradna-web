@@ -17,11 +17,11 @@ Vy přiznání nepodáváte. Paušální daň ho nahrazuje. Banka tedy nemá pap
 
 A tady začínají rozdíly mezi bankami. Některé s paušální daní umí pracovat dobře. Jiné s vámi skoro neumí počítat. Na rovinu: pro část bank jste záhada.
 
-Pro rok 2027 platíte v prvním pásmu 9 662 Kč měsíčně. Ve druhém 16 745 Kč a ve třetím 27 139 Kč. Pro banku je to pravidelná platba, kterou vidí na účtu. Kolik vyděláváte, z ní ale nepozná.
+Podle portálu BusinessInfo.cz platíte v roce 2027 v prvním pásmu 9 662 Kč měsíčně. Ve druhém 16 745 Kč a ve třetím 27 139 Kč. Pro banku je to pravidelná platba, kterou vidí na účtu. Kolik vyděláváte, z ní ale nepozná.
 
 ## Jak banka počítá z výpisů
 
-Banka si vezme vaše výpisy, třeba za tři, šest nebo dvanáct měsíců. Záleží na bance. Sečte, kolik vám přišlo od klientů. Z toho vám uzná jen část jako čistý příjem. Kolik, záleží na vašem oboru a na bance. Často je to kolem poloviny, někde víc, někde méně.
+Banka si vezme vaše výpisy, třeba za tři, šest nebo dvanáct měsíců. Záleží na bance. Sečte, kolik vám přišlo od klientů. Z toho vám uzná jen část jako čistý příjem. Kolik, záleží na vašem oboru a na bance. Často podobně jako u výdajového paušálu, tedy jen část toho, co vám přišlo.
 
 Pozor na dvě věci:
 
@@ -32,13 +32,13 @@ Pozor na dvě věci:
 
 Vezměme modelově svatebního fotografa na paušální dani. Práci má hlavně od jara do podzimu, v zimě skoro nic. Za celý rok mu od klientů přijde 620 000 Kč. Od srpna do října zhruba 70 000 Kč měsíčně. Od listopadu do ledna jen kolem 23 000 Kč měsíčně.
 
-Počítám modelově: banka mu uzná 50 % toho, co přišlo, na splátky pustí 55 % uznaného příjmu, úrok 5,5 %, splatnost 30 let.
+Počítám modelově: banka mu uzná 50 % toho, co přišlo, splátka smí být do 40 % uznaného příjmu (hranice, kterou doporučuje ČNB), úrok 5,5 %, splatnost 30 let. Jiné půjčky nemá.
 
-- **Banka, která se dívá na celý rok:** průměr 51 700 Kč, uzná zhruba 25 800 Kč, hypotéka asi **2,5 milionu**.
-- **Banka, která chce poslední tři měsíce, a žádá v únoru** (listopad až leden): průměr 23 300 Kč, uzná 11 700 Kč, hypotéka asi **1,1 milionu**.
-- **Stejná banka, žádá v listopadu** (srpen až říjen): průměr 70 000 Kč, uzná 35 000 Kč, hypotéka asi **3,4 milionu**.
+- **Banka, která se dívá na celý rok:** průměr 51 700 Kč, uzná zhruba 25 800 Kč, hypotéka asi **1,8 milionu**.
+- **Banka, která chce poslední tři měsíce, a žádá v únoru** (listopad až leden): průměr 23 000 Kč, uzná 11 500 Kč, hypotéka asi **0,8 milionu**.
+- **Stejná banka, žádá v listopadu** (srpen až říjen): průměr 70 000 Kč, uzná 35 000 Kč, hypotéka asi **2,5 milionu**.
 
-Stejný člověk, stejný rok práce. A rozdíl přes dva miliony podle toho, do které banky a kdy přijde.
+Stejný člověk, stejný rok práce. A rozdíl zhruba 1,7 milionu podle toho, do které banky a kdy přijde.
 
 Pro sezónní práci je proto často lepší banka, která se dívá na delší dobu. Kdo má příjem rovnoměrný, tomu naopak může stačit banka se třemi výpisy.
 
@@ -51,9 +51,9 @@ Ano, nejspíš zaplatíte víc. A víc práce vám dá i účetnictví. Banka al
 Má to dva háčky:
 
 - **Odhlásit se dá jen k novému roku.** Oznámení musí finanční úřad dostat do 10. ledna. Pro letošek už je pozdě, nejbližší možnost je od roku 2028.
-- **Banka chce přiznání za celý rok.** První přiznání tedy budete mít až za rok, ve kterém jste už paušál neplatili.
+- **Banka chce přiznání za celý rok.** Když z paušálu vystoupíte od ledna 2028, první přiznání podáte až na jaře 2029.
 
-Je to tedy cesta pro ty, kdo plánují hypotéku s ročním předstihem. Než se rozhodnete, spočítejte si obojí: kolik zaplatíte navíc na daních a kolik vám to přidá na hypotéce. Často to vyjde jasně. Jindy zase vyjde líp paušál a správná banka.
+Je to tedy cesta pro ty, kdo plánují hypotéku hodně dopředu. Než se rozhodnete, spočítejte si obojí: kolik zaplatíte navíc na daních a kolik vám to přidá na hypotéce. Často to vyjde jasně. Jindy zase vyjde líp paušál a správná banka.
 
 ## Na co si dát pozor
 
@@ -61,13 +61,13 @@ Je to tedy cesta pro ty, kdo plánují hypotéku s ročním předstihem. Než se
 - **Co máte na živnostenském listu, musí sedět s tím, co děláte.** Banky uznávají různým oborům různý díl. Když děláte jednu věc a zapsanou máte jinou, banka se vás bude ptát.
 - **Fakturujte poctivě a pravidelně, jak práce přichází.** Výpisy musí odpovídat skutečné práci. Cokoliv „vyrobeného“ jen pro banku je cesta do problémů.
 - **Když překročíte limit pro paušál,** musíte podat normální přiznání. To pak banka vidí a počítá z něj.
-- **Neříkejte si, že na hypotéku nemáte,** jen proto, že vás jedna banka odmítla. S paušální daní je rozdíl mezi bankami větší než kdekoliv jinde.
+- **Neříkejte si, že na hypotéku nemáte,** jen proto, že vás jedna banka odmítla. S paušální daní bývá rozdíl mezi bankami hodně velký.
 
 ## Časté otázky
 
 ### Dostanu hypotéku s paušální daní?
 
-Ano, ale ne v každé bance za stejných podmínek. Banka počítá z výpisů z účtu a uzná vám jen část toho, co vám přišlo. Kolik, záleží na bance a na vašem oboru.
+Často ano, ale ne v každé bance a ne za stejných podmínek. Schvaluje vždy banka. Banka počítá z výpisů z účtu a uzná vám jen část toho, co vám přišlo. Kolik, záleží na bance a na vašem oboru.
 
 ### Kolik výpisů banka u paušální daně chce?
 

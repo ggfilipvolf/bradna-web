@@ -22,7 +22,7 @@ Pokud žádáte ve dvou, banka vaše čisté příjmy sečte.
 ### Co banka do příjmu započítá a co ne
 
 - **Výplata ze zaměstnání** ano, obvykle jako průměr za poslední měsíce.
-- **Rodičovská** ano.
+- **Rodičovská** většinou ano, každá banka ji ale počítá trochu jinak.
 - **Výživné na děti** většinou ano.
 - **Nájem, který vám někdo platí**, obvykle zhruba ze 70 %.
 - **Přivýdělek na živnost** ano, ale jen z části a až když živnost běží alespoň půl roku až rok. Z 10 000 Kč vám banka uzná třeba 4 500 Kč.
@@ -40,7 +40,7 @@ Druhá hranice je celková výše dluhu. Ta by neměla přesáhnout zhruba osmin
 
 ## Pravidlo třetí: vlastní peníze jsou často skutečný strop
 
-Banka vám nepůjčí celou cenu bytu. Pokud vám je méně než 36 let, půjčí maximálně 90 % hodnoty nemovitosti. Pokud je vám 36 a víc, maximálně 80 %. Zbytek musíte mít z vlastního.
+Banka vám nepůjčí celou cenu bytu. Pokud vám je méně než 36 let a kupujete bydlení pro sebe, půjčí maximálně 90 % hodnoty nemovitosti. Pokud je vám 36 a víc, maximálně 80 %. Zbytek musíte mít z vlastního.
 
 A pozor na jednu věc. Banka nepůjčuje z ceny, půjčuje z odhadu. Odhad je cena, na kterou nemovitost ocení odhadce, se kterým banka spolupracuje. Když je odhad nižší než kupní cena, rozdíl doplácíte vy.
 

@@ -38,7 +38,7 @@ A pozor na jednu věc. Čím kratší doba splácení, tím vyšší splátka. T
 
 Banka nevidí jen to, kolik splácíte. Vidí i to, jak často si půjčujete.
 
-Nedávno jsem měl klientku, která si během pár měsíců vzala tři menší úvěry. Všechno platila včas. Žádný problém. A stejně jí další banka nabídla úrok přes 8 %. Banky to čtou tak, že člověk potřebuje peníze a půjčuje si pořád dokola.
+Když si během pár měsíců vezmete několik úvěrů, banka to čte tak, že potřebujete peníze, a může vám nabídnout horší úrok, i když všechno splácíte včas.
 
 Jedna půjčka, kterou v klidu splácíte, nevadí. Vadí, když si půjčujete a vracíte pořád dokola.
 
@@ -48,7 +48,7 @@ Nic se neděje. Většina lidí, kteří za mnou přijdou, něco splácí. Je to
 
 Někdy stačí počkat, až se malá půjčka doplatí. Když zbývají dvě tři splátky, často se vyplatí ji doplatit dřív, ještě než podáte žádost.
 
-Někdy pomůže spojit víc malých půjček do jedné s delší splatností. Viděl jsem klientku s čistým příjmem kolem 37 000 Kč, která měla několik drobných půjček na krátkou dobu. Po spojení do jedné jí měsíční splátka klesla zhruba na polovinu. A byt za dva miliony, o kterém si myslela, že na něj nikdy nedosáhne, najednou vyšel. Řekla mi: „To mě ani nenapadlo, že je to možné.“
+Někdy pomůže spojit víc malých půjček do jedné s delší splatností, tedy dobou splácení. Měsíční splátka pak může klesnout třeba na polovinu.
 
 Je to vždycky něco za něco. Delší splatnost znamená, že na úrocích zaplatíte víc. Proto to nedělám automaticky, ale jen když to dává smysl.
 

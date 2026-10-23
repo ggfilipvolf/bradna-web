@@ -19,7 +19,7 @@ Dokud nejste svoji, můžete si vybrat.
 
 ## Po svatbě: kupujete většinou oba
 
-Když se vezmete, to, co spolu koupíte, je skoro vždycky společné. Zákon tomu říká společné jmění manželů. Pro vás to znamená, že byt kupujete oba a oba jste v hypotéce. Banka bude chtít podpisy obou.
+Když se vezmete, to, co spolu koupíte, je skoro vždycky společné. Zákon tomu říká společné jmění manželů. Pro vás to znamená, že byt kupujete oba a oba jste v hypotéce. Banka bude většinou chtít podpisy obou.
 
 To není nic špatného. Pro většinu párů je to nejjednodušší cesta. Jen už si nevyberete, že byt bude jen jednoho z vás.
 
@@ -31,7 +31,7 @@ Když spolu bydlíte a svatba zatím není v plánu, hypotéku můžete mít spo
 
 Jen jednu věc vám řeknu na rovinu. Banku nezajímá, jak jste se domluvili mezi sebou. Když jeden přestane platit, banka chce celou splátku po tom druhém.
 
-Proto si sepište dohodu. Kdo kolik dal, kdo kolik platí a co se stane, když se rozejdete. Ideálně u někoho s kulatým razítkem. Stát se může cokoliv, kdykoliv, komukoliv.
+Proto si sepište dohodu. Kdo kolik dal, kdo kolik platí a co se stane, když se rozejdete. Ideálně u notáře nebo advokáta. Stát se může cokoliv, kdykoliv, komukoliv.
 
 ## Pojďme to spočítat
 
@@ -49,7 +49,7 @@ Se společným příjmem kolem 78 000 Kč to zvládnou. A zbude jim rezerva.
 
 Teď ta věc, kterou vidím pořád dokola. Svatba stojí peníze. Tak si pár vezme půjčku. Řekněme 300 000 Kč na sedm let s úrokem 9 %. Splátka vyjde zhruba na 4 800 Kč měsíčně.
 
-Z praxe platí, že každá tisícovka jiných splátek vám ubere zhruba 180 000 Kč z hypotéky. Splátka 4 800 Kč tak může vaši hypotéku zmenšit skoro o 870 000 Kč. A ještě jedna věc. Když je půjčka společná, banka ji u každého z vás vidí celou. I když ji platíte napůl.
+Z praxe platí, že každá tisícovka jiných splátek vám ubere zhruba 180 000 Kč z hypotéky. Splátka 4 800 Kč tak může vaši hypotéku zmenšit zhruba o 860 000 Kč. A ještě jedna věc. Když je půjčka společná, banka ji u každého z vás vidí celou. I když ji platíte napůl.
 
 Navíc za tu půjčku zaplatíte jen na úrocích přes 100 000 Kč.
 
@@ -58,10 +58,10 @@ Takže pokud plánujete byt v nejbližším roce nebo dvou, je lepší udělat m
 ## Na co si dát pozor
 
 - **Svatba ani svatební cesta na splátky.** Pokud vás čeká hypotéka, dejte si pár měsíců předem pauzu od všech nových půjček.
-- **Svatba během vyřizování hypotéky.** Řekněte to hned na začátku. Když se vezmete mezi žádostí a podpisem, banka bude chtít podpis i od nového manžela nebo manželky. Je lepší s tím počítat dopředu.
+- **Svatba během vyřizování hypotéky.** Řekněte to hned na začátku. Když se vezmete mezi žádostí a podpisem, banka bude většinou chtít podpis i od nového manžela nebo manželky. Je lepší s tím počítat dopředu.
 - **Jméno a doklady.** Když si po svatbě měníte příjmení, budete mít nový občanský průkaz. Bance to nahlaste.
 - **Když jeden nemůže chodit po bankách.** Stačí mu jednou dát plnou moc a nemusíte všude chodit spolu.
-- **Svatební dary.** Peníze, které dostanete, se hodí jako vlastní peníze na byt. Nechte je ale přijít na účet bankovním převodem. Hotovost v obálce banka těžko uzná, protože nevidí, odkud přišla.
+- **Svatební dary.** Peníze, které dostanete, se hodí jako vlastní peníze na byt. Nechte je ale přijít na účet bankovním převodem. U hotovosti v obálce banka nevidí, odkud přišla, a může chtít vysvětlení.
 
 ## Časté otázky
 

@@ -7,7 +7,7 @@ perex: Vy si spočítáte jeden příjem, banka úplně jiný. Ukážu vám, kte
 kategorie: Jak to v bance chodí
 ---
 
-„Měsíčně mi chodí skoro šedesát tisíc.“ Tuhle větu slyším na schůzkách často. A pak spolu projdeme, odkud ty peníze chodí. Výplata, k tomu brigáda na dohodu, něco na živnost, nájem z bytu po babičce. Pro vás je to všechno příjem. Pro banku ne. Pojďme si to rozebrat kousek po kousku.
+„Měsíčně mi chodí skoro šedesát tisíc.“ Tuhle větu slyším na schůzkách často. A pak spolu projdeme, odkud ty peníze chodí. Výplata, k tomu brigáda na dohodu, něco na živnost, nájem z druhého bytu. Pro vás je to všechno příjem. Pro banku ne. Pojďme si to rozebrat kousek po kousku.
 
 ## Co banka bere celé
 
@@ -25,7 +25,7 @@ Platí to i tehdy, když bydlí v bytě třeba váš bratr. Nájem od příbuzn�
 
 Pozor na garáž. Nájem z ní vám některá banka neuzná vůbec.
 
-**Přivýdělek na živnost.** Když vedle práce fakturujete, banka z toho uzná jen kus. Typicky z 10 000 Kč měsíčně třeba 4 500 Kč. Zbytek bere jako vaše náklady. A živnost musí běžet aspoň půl roku, u většiny bank rok, a mít podané přiznání.
+**Přivýdělek na živnost.** Když vedle práce fakturujete, banka z toho uzná jen kus. Typicky z 10 000 Kč měsíčně třeba 4 500 Kč. Zbytek bere jako vaše náklady. A živnost musí nějakou dobu běžet. Některým bankám stačí půl roku, většina chce rok a podané přiznání.
 
 ## Co banka nevezme
 
@@ -58,12 +58,12 @@ Banka počítá:
 
 Celkem **40 400 Kč**. Rozdíl 17 600 Kč měsíčně.
 
-A pravidlo z praxe: každých 10 000 Kč příjmu je zhruba milion hypotéky. Ověřil jsem si to výpočtem. Když banka pustí na splátky 55 % příjmu, při modelovém úroku 5,5 % a splatnosti 30 let vychází:
+Pojďme to převést na hypotéku. Počítám modelově: splátka do 40 % čistého příjmu (hranice, kterou doporučuje ČNB), úrok 5,5 %, splatnost 30 let, žádné jiné půjčky:
 
-- s 58 000 Kč by hypotéka byla zhruba 5,6 milionu,
-- se 40 400 Kč je to zhruba 3,9 milionu.
+- s 58 000 Kč by hypotéka byla zhruba 4,1 milionu,
+- se 40 400 Kč je to zhruba 2,85 milionu.
 
-Rozdíl přes 1,7 milionu. Stejný člověk, stejné peníze na účtu.
+Rozdíl přes 1,2 milionu. Stejný člověk, stejné peníze na účtu.
 
 ## Co s tím
 

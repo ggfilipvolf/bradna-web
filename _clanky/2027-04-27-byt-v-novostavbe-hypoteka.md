@@ -24,7 +24,7 @@ Kolaudace je úřední potvrzení, že se v domě může bydlet.
 
 Tady se lidé zaseknou nejčastěji. Na schůzkách to slyším pořád: „Zálohu si vezmu z hypotéky, nebo ze stavebka.“
 
-Často to nejde. Některé banky umí poslat zálohu developerovi z hypotéky. U jiných, nebo u některých developerů, musí být první záloha z vlastních peněz. Nebo od rodiny. Úvěr pak pokryje až zbytek ceny.
+Většinou to nejde. Banka obvykle chce, abyste svůj díl zaplatili jako první. Záloha 10 až 20 % tak bývá z vlastních peněz, nebo od rodiny. Úvěr pak pokryje až zbytek ceny.
 
 U bytu za 5 milionů je 10% záloha půl milionu. A dvacetiprocentní je milion. Hned na začátku.
 
@@ -40,7 +40,7 @@ Já to radši mám vyřešené hned. Donesete bance smlouvu s developerem a bank
 
 Dvě věci k tomu:
 
-- **Na čerpání máte omezenou dobu.** Obvykle kolem dvou let, některé banky dávají i tři roky. Když se stavba zpozdí, dá se to většinou s bankou domluvit. Zeptejte se na to předem.
+- **Na čerpání máte omezenou dobu.** U bytu ve výstavbě obvykle kolem dvou let. Když se stavba zpozdí, dá se lhůta většinou prodloužit, často za poplatek. Zeptejte se na to předem.
 - **Schválená hypotéka vám ubírá z dalších půjček.** Jakmile ji podepíšete, ostatní banky ji vidí, jako byste ji už celou splácel. I když jste zatím nevyčerpali ani korunu. Během stavby si proto nic dalšího na splátky neberte.
 
 A zeptejte se developera, jak chce platby. Ne každý dovolí posílat peníze z hypotéky postupně během stavby. A zeptejte se banky, jestli si za čekání na čerpání něco neúčtuje.
@@ -80,13 +80,13 @@ Musíte to ale říct hned na začátku. Když to řeknete až po odhadu, je poz
 - **Neschvalujte si víc, než potřebujete.** Většina bank chce, abyste vyčerpali aspoň 80 % schválené částky. Když vyčerpáte méně, může vás čekat poplatek. Malá rezerva ano, velká ne.
 - **Přečtěte si, co se stane, když stavba nabere zpoždění.** Co říká smlouva s developerem? A co banka? Lhůty na obou stranách by měly sedět.
 - **Nekupujte nic dalšího na splátky.** Banka se před dalšími platbami může znovu podívat, co splácíte.
-- **Pozor, kdy běží fixace.** U většiny bank vám sazba platí od podpisu smlouvy. Když čerpáte až za rok, část fixace uběhne ještě před plnou splátkou. Zeptejte se na to.
+- **Pozor, kdy běží fixace.** Fixace je doba, po kterou máte zaručenou sazbu. U většiny bank běží od podpisu smlouvy. Když čerpáte až za rok, část fixace uběhne ještě před plnou splátkou. Zeptejte se na to.
 
 ## Časté otázky
 
 ### Můžu zálohu developerovi zaplatit z hypotéky?
 
-Někdy ano. Záleží na bance i developerovi. Často ale první záloha musí být z vlastních peněz. Zjistěte to dřív, než podepíšete smlouvu.
+Většinou ne. Banka obvykle chce, abyste první zálohu zaplatili z vlastních peněz. Podrobnosti se liší podle banky i developera. Zjistěte to dřív, než podepíšete smlouvu.
 
 ### Kdy mám začít řešit hypotéku na novostavbu?
 

@@ -29,7 +29,7 @@ Přiznání za rok 2026 se podává letos. Termíny jsou tři:
 - **do 3. května 2027**, když podáváte sami a jen elektronicky (1. května je sobota a svátek, proto se termín posouvá na pondělí),
 - **do 1. července 2027**, když vám přiznání podává daňový poradce na plnou moc.
 
-Termíny vycházejí ze zákona a potvrzují je i podnikatelské portály. Jestli můžete využít delší lhůtu, potvrdí vám vaše účetní.
+Termíny vycházejí z daňového řádu. Jestli můžete využít delší lhůtu, potvrdí vám vaše účetní.
 
 ## Co z toho plyne pro hypotéku
 
@@ -52,11 +52,11 @@ Banka dělí dvanácti:
 - přiznání 2025: 420 000 : 12 = 35 000 Kč měsíčně,
 - přiznání 2026: 540 000 : 12 = 45 000 Kč měsíčně.
 
-Rozdíl je 10 000 Kč měsíčně. A pravidlo z praxe říká: každých 10 000 Kč měsíčního příjmu je zhruba milion hypotéky. Ověřil jsem si to výpočtem. Když banka pustí na splátky 55 % příjmu, při modelovém úroku 5,5 % a splatnosti 30 let vychází těch 10 000 Kč na zhruba 970 000 Kč hypotéky navíc.
+Rozdíl je 10 000 Kč měsíčně. A pravidlo z praxe říká: každých 10 000 Kč čistého měsíčního příjmu je zhruba milion hypotéky. Je to orientační číslo, přesně to spočítá až konkrétní banka.
 
 Stejný člověk, stejná firma. Jen jiné přiznání na stole. Tady se vyplatí s žádostí počkat na nové přiznání, nebo si od poradce vzít potvrzení a jít do banky hned v dubnu.
 
-Funguje to i obráceně. Když vám za rok 2026 příjem klesl, nové přiznání vám může zamíchat kartami. Pak dává smysl jít do banky ještě v únoru nebo v březnu, dokud platí to starší. Jen to řekněte bance rovnou. Banka se stejně podívá i na aktuální výpisy z účtu a schovávat se nic nevyplatí.
+Funguje to i obráceně. Když vám za rok 2026 příjem klesl, nové přiznání ukáže menší číslo. Řekněte to bance rovnou. Banka se stejně podívá i na aktuální výpisy z účtu a schovávat se nic nevyplatí.
 
 ## Na co si dát pozor
 
@@ -83,6 +83,6 @@ Většinou ne. Banky obvykle uznají potvrzení od poradce a k tomu chtějí pos
 
 ### Vyplatí se počkat na nové přiznání?
 
-Když vám příjmy rostou, většinou ano. Když klesají, je lepší jít do banky dřív. Spočítejte si obě varianty.
+Když vám příjmy rostou, většinou ano. Když klesají, řekněte to bance rovnou a spočítejte si, kolik vám reálně vyjde.
 
 Podnikáte a chystáte se letos na hypotéku? Napište mi ještě předtím, než přiznání odejde. Spočítáme, kdy a s jakým přiznáním vám banka půjčí nejvíc.

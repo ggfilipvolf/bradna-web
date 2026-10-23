@@ -2,7 +2,7 @@
 title: Hypotéka do 36 let: co znamená a kdy má smysl si pospíšit
 slug: hypoteka-do-36-let
 date: 2027-01-12
-description: Hypotéka do 36 let znamená, že vám banka půjčí až 90 % hodnoty bytu. Kdy se hranice počítá, kolik to ušetří a proč kvůli ní nekupovat přes koleno.
+description: Hypotéka do 36 let znamená až 90 % hodnoty bytu. Kdy hranice platí, kolik to ušetří a proč kvůli ní nekupovat přes koleno.
 perex: Do 36 let vám banka může půjčit víc, takže stačí méně vlastních peněz. Hranice ale platí přesně podle data a výhoda má i druhou stranu. Spočítal jsem, kdy dává smysl pospíšit si a kdy ne.
 kategorie: První byt
 ---
@@ -97,6 +97,6 @@ Pravidlo výslovně počítá s manžely a registrovanými partnery. U nesezdan�
 
 ### Můžu do 36 let dostat i víc než 90 %?
 
-Jen pokud dáte bance do zástavy ještě další nemovitost, třeba byt rodičů. Hodnoty se pak sečtou a vlastních peněz potřebujete méně.
+Většinou jen tehdy, když dáte bance do zástavy ještě další nemovitost, třeba byt rodičů. Hodnoty se pak sečtou a vlastních peněz potřebujete méně.
 
 Výhoda do 36 let je dobrá věc. Ale jen tehdy, když ji využijete na správný byt. Napište mi, kolik vám je a co máte vyhlédnuté. Spočítáme, jestli má smysl si pospíšit.
