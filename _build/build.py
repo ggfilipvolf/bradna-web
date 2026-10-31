@@ -41,7 +41,7 @@ NAV = [("/o-mne/", "O mně"), ("/co-resim/", "Co řeším"), ("/jak-to-probiha/"
 
 SOCIAL = {
     "ig": "https://www.instagram.com/ladislav.bradna/",
-    "yt": "https://www.youtube.com/@ladislavbradna1630",
+    "yt": "https://www.youtube.com/@ladislavbradna",
     "li": "https://cz.linkedin.com/in/ladislav-bradna-23654611a",
 }
 
